@@ -1,0 +1,20 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/bar.rpy", line 21, in script
+    menu is_it_raining:
+TypeError: list indices must be integers, not Null
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/bar.rpy", line 21, in script
+    menu is_it_raining:
+  File "D:\Programs\RenPy\renpy-6.99.14-sdk\renpy\ast.py", line 1534, in execute
+    next_node(self.items[choice][2][0])
+TypeError: list indices must be integers, not Null
+
+Windows-8-6.2.9200
+Ren'Py 7.0.0.196
+Lonely Road 1.0
+Tue Jul 03 19:57:42 2018

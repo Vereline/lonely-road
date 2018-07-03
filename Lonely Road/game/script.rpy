@@ -3,31 +3,70 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
+define kira = DynamicCharacter("Kira_name")
+define me = DynamicCharacter("Me_name")
+define bartender = Character('Bartender')
 
+image kira_dafault = 'sprites/sprite-default.png'
+image kira_baka = 'sprites/sprite-baka.png'
+image kira_angry = 'sprites/sprite-angry.png'
+image kira_sad = 'sprites/sprite-sad.png'
+image kira_idontcare = 'sprites/sprite-idontcare.png'
+image kira_mi = 'sprites/sprite-mi.png'
+image kira_shock = 'sprites/sprite-shock.png'
+image kira_superangry = 'sprites/sprite-superangry.png'
+image kira_thinking = 'sprites/sprite-thinking.png'
 
+style centered_style:
+    xalign 0.5
+    yalign 0.5
+
+screen act_button(number=0, text_size=40):
+    hbox:
+        style "centered_style"
+        xmaximum 300
+        $ text_input = "Акт " + str(number) 
+        textbutton text_input:
+            action None
+            text_size text_size
 # The game starts here.
 
-label start:
 
+label start:
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
-    scene bg room
+    # scene bg room
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    show eileen happy
+    $ Me_name = 'Me'
+    $ Kira_name = 'Girl'
+
+    show screen act_button(1)
+
+label act_0:
+    "Act 1"
+    jump act_0_street
+label act_1:
+    "Act 2"
+    jump act_1_bar
+label act_2:
+    "Act 3"
+    jump act_2_bar
+label act_3:
+    "Act 4"
+    jump act_3_bar
+label act_4:
+    "Act 5"
+    jump act_4_street
 
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
-
-    e "Once you add a story, pictures, and music, you can release it to the world!"
-
+label end_game:
     # This ends the game.
-
+    "To be continued..."
     return
