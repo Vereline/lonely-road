@@ -70,3 +70,11 @@ label end_game:
     # This ends the game.
     "To be continued..."
     return
+
+
+label credits:
+    mail = 'vereline8991@gmail.com'
+    music1 = 'liscence and title'
+    music2 = 'liscence and title'
+    music3 = 'liscence and title'
+    back_and_sprites_scenario = 'me'
