@@ -72,9 +72,9 @@ label end_game:
     return
 
 
-label credits:
-    mail = 'vereline8991@gmail.com'
-    music1 = 'liscence and title'
-    music2 = 'liscence and title'
-    music3 = 'liscence and title'
-    back_and_sprites_scenario = 'me'
+# label credits:
+#     mail = 'vereline8991@gmail.com'
+#     music1 = 'liscence and title'
+#     music2 = 'liscence and title'
+#     music3 = 'liscence and title'
+#     back_and_sprites_scenario = 'me'

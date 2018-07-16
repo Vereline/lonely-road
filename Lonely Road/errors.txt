@@ -2,9 +2,25 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 30: expected a keyword argument or end of line.
-    action $ number +=1
+File "game/script.rpy", line 76: expected statement.
+    mail = 'vereline8991@gmail.com'
+         ^
+
+File "game/script.rpy", line 77: expected statement.
+    music1 = 'liscence and title'
            ^
 
+File "game/script.rpy", line 78: expected statement.
+    music2 = 'liscence and title'
+           ^
+
+File "game/script.rpy", line 79: expected statement.
+    music3 = 'liscence and title'
+           ^
+
+File "game/script.rpy", line 80: expected statement.
+    back_and_sprites_scenario = 'me'
+                              ^
+
 Ren'Py Version: Ren'Py 7.0.0.196
-Tue Jul 03 20:01:09 2018
+Tue Jul 17 00:18:22 2018
