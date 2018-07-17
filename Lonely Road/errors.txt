@@ -2,25 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 76: expected statement.
-    mail = 'vereline8991@gmail.com'
+File "game/bar.rpy", line 48: ATL statement contains two expressions in a row; is one of them a misspelled property? If not, separate them with pass.
+    style "kira_sprite_style"
+                             ^
+
+File "game/script.rpy", line 23: style property xzoom is not known.
+    xzoom 0.3
          ^
 
-File "game/script.rpy", line 77: expected statement.
-    music1 = 'liscence and title'
-           ^
-
-File "game/script.rpy", line 78: expected statement.
-    music2 = 'liscence and title'
-           ^
-
-File "game/script.rpy", line 79: expected statement.
-    music3 = 'liscence and title'
-           ^
-
-File "game/script.rpy", line 80: expected statement.
-    back_and_sprites_scenario = 'me'
-                              ^
-
 Ren'Py Version: Ren'Py 7.0.0.196
-Tue Jul 17 00:18:22 2018
+Wed Jul 18 00:51:25 2018
