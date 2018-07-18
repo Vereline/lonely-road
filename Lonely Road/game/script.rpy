@@ -6,6 +6,7 @@
 define kira = DynamicCharacter("Kira_name")
 define me = DynamicCharacter("Me_name")
 define bartender = Character('Bartender')
+define policeman = Character('Policeman')
 
 image kira_dafault = 'sprites/sprite-default.png'
 image kira_baka = 'sprites/sprite-baka.png'
