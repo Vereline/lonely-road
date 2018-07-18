@@ -101,3 +101,29 @@ translate russian act_4_street_93fb5e45:
 
     # "The police car started off and took me to the darkness…"
     "Полицейская машина тронулась и увезла меня в темноту…"
+# TODO: Translation updated at 2018-07-19 00:23
+
+# game/street.rpy:7
+translate russian act_0_street_6264d4a4:
+
+    # " . . ."
+    " . . ."
+
+# game/street.rpy:11
+translate russian act_0_street_6264d4a4_1:
+
+    # " . . ."
+    " . . ."
+
+# game/street.rpy:25
+translate russian act_4_street_1420d7a5:
+
+    # policeman "{b}...{/b}"
+    policeman "{b}...{/b}"
+
+# game/street.rpy:29
+translate russian act_4_street_1420d7a5_1:
+
+    # policeman "{b}...{/b}"
+    policeman "{b}...{/b}"
+
