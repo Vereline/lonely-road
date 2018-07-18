@@ -1018,3 +1018,19 @@ translate russian strings:
     old "Copies the errors.txt file to the clipboard."
     new "Скопировать errors.txt в буфер обмена."
 
+# TODO: Translation updated at 2018-07-18 23:55
+
+translate russian strings:
+
+    # 00director.rpy:1628
+    old "Change"
+    new ""
+
+    # 00preferences.rpy:373
+    old "emphasize audio"
+    new ""
+
+    # 00updater.rpy:1419
+    old "An error has occured:"
+    new ""
+
