@@ -1,5 +1,6 @@
-﻿
-translate None strings:
+﻿# TODO: Translation updated at 2018-07-18 21:42
+
+translate russian strings:
 
     # 00action_file.rpy:26
     old "{#weekday}Monday"
@@ -157,67 +158,55 @@ translate None strings:
     old "%b %d, %H:%M"
     new "%d %b, %H:%M"
 
-    # 00action_file.rpy:345
+    # 00action_file.rpy:344
     old "Save slot %s: [text]"
     new "Слот сохранения %s: [text]"
 
-    # 00action_file.rpy:421
+    # 00action_file.rpy:417
     old "Load slot %s: [text]"
     new "Слот загрузки %s: [text]"
 
-    # 00action_file.rpy:466
+    # 00action_file.rpy:459
     old "Delete slot [text]"
     new "Удалить слот [text]"
 
-    # 00action_file.rpy:546
+    # 00action_file.rpy:539
     old "File page auto"
     new "Автосохранения"
 
-    # 00action_file.rpy:548
+    # 00action_file.rpy:541
     old "File page quick"
     new "Быстрые сохранения"
 
-    # 00action_file.rpy:550
+    # 00action_file.rpy:543
     old "File page [text]"
     new "Страница сохранений [text]"
 
-    # 00action_file.rpy:608
-    old "Page {}"
-    new "{} страница"
-
-    # 00action_file.rpy:608
-    old "Automatic saves"
-    new "Автосохранения"
-
-    # 00action_file.rpy:608
-    old "Quick saves"
-    new "Быстрые сохранения"
-
-    # 00action_file.rpy:740
+    # 00action_file.rpy:733
     old "Next file page."
     new "Следующая страница сохранений"
 
-    # 00action_file.rpy:804
+    # 00action_file.rpy:797
     old "Previous file page."
     new "Предыдущая страница сохранений"
 
-    # 00action_file.rpy:865
+    # 00action_file.rpy:858
     old "Quick save complete."
     new "Быстрое сохранение завершено."
 
-    # 00action_file.rpy:883
+    # 00action_file.rpy:876
     old "Quick save."
     new "Быстрое сохранение"
 
-    # 00action_file.rpy:902
+    # 00action_file.rpy:895
     old "Quick load."
     new "Быстрая загрузка"
 
-    # 00action_other.rpy:355
+    # 00action_other.rpy:344
     old "Language [text]"
     new "Язык [text]"
 
-    # 00director.rpy:708
+    # 00director.rpy:703
     old "The interactive director is not enabled here."
     new "Интерактивный директор недоступен."
 
@@ -229,123 +218,119 @@ translate None strings:
     old "⬇"
     new "⬇"
 
-    # 00director.rpy:1548
+    # 00director.rpy:1490
     old "Done"
     new "Принять"
 
-    # 00director.rpy:1558
+    # 00director.rpy:1498
     old "(statement)"
     new "(функция)"
 
-    # 00director.rpy:1559
+    # 00director.rpy:1499
     old "(tag)"
     new "(тег)"
 
-    # 00director.rpy:1560
+    # 00director.rpy:1500
     old "(attributes)"
     new "(аттрибут)"
 
-    # 00director.rpy:1561
+    # 00director.rpy:1501
     old "(transform)"
     new "(трансформация)"
 
-    # 00director.rpy:1586
+    # 00director.rpy:1526
     old "(transition)"
     new "(переход)"
 
-    # 00director.rpy:1598
+    # 00director.rpy:1538
     old "(channel)"
     new "(канал)"
 
-    # 00director.rpy:1599
+    # 00director.rpy:1539
     old "(filename)"
     new "(имя файла)"
 
-    # 00director.rpy:1628
-    old "Change"
-    new "Изменить"
-
-    # 00director.rpy:1630
+    # 00director.rpy:1566
     old "Add"
     new "Добавить"
 
-    # 00director.rpy:1633
+    # 00director.rpy:1569
     old "Cancel"
     new "Отмена"
 
-    # 00director.rpy:1636
+    # 00director.rpy:1572
     old "Remove"
     new "Убрать"
 
-    # 00director.rpy:1671
+    # 00director.rpy:1605
     old "Statement:"
     new "Функции:"
 
-    # 00director.rpy:1692
+    # 00director.rpy:1626
     old "Tag:"
     new "Теги:"
 
-    # 00director.rpy:1708
+    # 00director.rpy:1642
     old "Attributes:"
-    new "Аттрибут:"
+    new "Атрибут:"
 
-    # 00director.rpy:1726
+    # 00director.rpy:1660
     old "Transforms:"
     new "Трансформации:"
 
-    # 00director.rpy:1745
+    # 00director.rpy:1679
     old "Behind:"
     new "Позади:"
 
-    # 00director.rpy:1764
+    # 00director.rpy:1698
     old "Transition:"
     new "Переходы:"
 
-    # 00director.rpy:1782
+    # 00director.rpy:1716
     old "Channel:"
     new "Каналы:"
 
-    # 00director.rpy:1800
+    # 00director.rpy:1734
     old "Audio Filename:"
     new "Имя файла:"
 
-    # 00gui.rpy:370
+    # 00gui.rpy:368
     old "Are you sure?"
     new "Вы уверены?"
 
-    # 00gui.rpy:371
+    # 00gui.rpy:369
     old "Are you sure you want to delete this save?"
     new "Вы уверены, что хотите удалить это сохранение?"
 
-    # 00gui.rpy:372
+    # 00gui.rpy:370
     old "Are you sure you want to overwrite your save?"
     new "Вы уверены, что хотите перезаписать ваше сохранение?"
 
-    # 00gui.rpy:373
+    # 00gui.rpy:371
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
     new "Загрузка игры приведёт к потере несохранённого прогресса.\nВы уверены, что хотите это сделать?"
 
-    # 00gui.rpy:374
+    # 00gui.rpy:372
     old "Are you sure you want to quit?"
     new "Вы уверены, что хотите выйти?"
 
-    # 00gui.rpy:375
+    # 00gui.rpy:373
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
     new "Вы уверены, что хотите вернуться в главное меню?\nЭто приведёт к потере несохранённого прогресса."
 
-    # 00gui.rpy:376
+    # 00gui.rpy:374
     old "Are you sure you want to end the replay?"
     new "Вы уверены, что хотите завершить повтор?"
 
-    # 00gui.rpy:377
+    # 00gui.rpy:375
     old "Are you sure you want to begin skipping?"
     new "Вы уверены, что хотите начать пропуск?"
 
-    # 00gui.rpy:378
+    # 00gui.rpy:376
     old "Are you sure you want to skip to the next choice?"
     new "Вы точно хотите пропустить всё до следующего выбора?"
 
-    # 00gui.rpy:379
+    # 00gui.rpy:377
     old "Are you sure you want to skip unseen dialogue to the next choice?"
     new "Вы уверены, что хотите пропустить непрочитанные диалоги до следующего выбора?"
 
@@ -399,11 +384,11 @@ translate None strings:
 
     # 00library.rpy:157
     old "increase"
-    new "больше"
+    new "больше" ### но полоса прокрутки тоже здесь!
 
     # 00library.rpy:158
     old "decrease"
-    new "меньше"
+    new "меньше" ###
 
     # 00library.rpy:193
     old "Skip Mode"
@@ -451,7 +436,7 @@ translate None strings:
 
     # 00preferences.rpy:266
     old "skip unseen [text]"
-    new "пропускать весь [text]"
+    new "пропускать весь [text]" ###
 
     # 00preferences.rpy:271
     old "skip unseen text"
@@ -475,11 +460,11 @@ translate None strings:
 
     # 00preferences.rpy:300
     old "auto-forward"
-    new "авточтение"
+    new "авточтение" ###
 
     # 00preferences.rpy:307
     old "Auto forward"
-    new "Авточтение"
+    new "Авточтение" ###
 
     # 00preferences.rpy:310
     old "auto-forward after click"
@@ -487,7 +472,7 @@ translate None strings:
 
     # 00preferences.rpy:319
     old "automatic move"
-    new "автоматически передвигать мышь к кнопке"
+    new "автоматически передвигать мышь к кнопке" ###
 
     # 00preferences.rpy:328
     old "wait for voice"
@@ -508,10 +493,6 @@ translate None strings:
     # 00preferences.rpy:364
     old "debug voicing"
     new "режим дебага синтеза речи"
-
-    # 00preferences.rpy:373
-    old "emphasize audio"
-    new "усилить громкость заранее заданных звуковых каналов за счёт приглушения остальных каналов"
 
     # 00preferences.rpy:382
     old "rollback side"
@@ -557,41 +538,41 @@ translate None strings:
     old "mute all"
     new "режим без звука"
 
-    # 00preferences.rpy:500
+    # 00preferences.rpy:498
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
     new "Озвучка буфера обмена включена. Нажмите 'shift+C', чтобы отключить её."
 
-    # 00preferences.rpy:502
+    # 00preferences.rpy:500
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
     new "Синтезатор речи должен сказать \"[renpy.display.tts.last]\". Нажмите 'alt+shift+V', чтобы отключить его."
 
-    # 00preferences.rpy:504
+    # 00preferences.rpy:502
     old "Self-voicing enabled. Press 'v' to disable."
     new "Синтезатор речи включён. Нажмите 'v', чтобы отключить его."
 
     # _compat\gamemenu.rpym:198
     old "Empty Slot."
-    new "Пустой слот"
+    new "Пустой слот."
 
     # _compat\gamemenu.rpym:355
     old "Previous"
-    new "Назад"
+    new "Предыдущий"
 
     # _compat\gamemenu.rpym:362
     old "Next"
-    new "Далее"
+    new "Следующий"
 
     # _compat\preferences.rpym:428
     old "Joystick Mapping"
-    new "Раскладка джойстика"
+    new "Маппинг джойстиком"
 
     # _developer\developer.rpym:38
     old "Developer Menu"
-    new "Меню разработчика"
+    new "Меню разработки"
 
     # _developer\developer.rpym:43
     old "Interactive Director (D)"
-    new "Интерактивный Директор (D)"
+    new "Интерактивный директор (D)"
 
     # _developer\developer.rpym:45
     old "Reload Game (Shift+R)"
@@ -603,11 +584,11 @@ translate None strings:
 
     # _developer\developer.rpym:49
     old "Variable Viewer"
-    new "Просмотр переменных"
+    new "Просмотрщик переменных"
 
     # _developer\developer.rpym:51
     old "Image Location Picker"
-    new "Инструмент позиционирования на изображениях"
+    new "Выбор местоположения изображения"
 
     # _developer\developer.rpym:53
     old "Filename List"
@@ -615,19 +596,15 @@ translate None strings:
 
     # _developer\developer.rpym:57
     old "Show Image Load Log (F4)"
-    new "Показать лог загрузки изображений (F4)"
+    new "Загрузить лог загрузки изображений (F4)"
 
     # _developer\developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new "Скрыть лог загрузки изображений (F4)"
-
-    # _developer\developer.rpym:66
-    old "Return"
-    new "Вернуться"
+    new "Спрятать лог загрузки изображений (F4)"
 
     # _developer\developer.rpym:95
     old "Nothing to inspect."
-    new "Переменные не заданы."
+    new "Нечего исследовать."
 
     # _developer\developer.rpym:223
     old "Return to the developer menu"
@@ -643,27 +620,27 @@ translate None strings:
 
     # _developer\developer.rpym:393
     old "Right-click or escape to quit."
-    new "Нажмите правую кнопку мыши или ESC чтобы выйти."
+    new "Правый щелчок мыши для выхода"
 
     # _developer\developer.rpym:425
     old "Rectangle copied to clipboard."
-    new "Координаты прямоугольника скопированы в буфер обмена."
+    new "Прямоугольник скопирован в буфер обмена."
 
     # _developer\developer.rpym:428
     old "Position copied to clipboard."
-    new "Координаты позиции скопированы в буфер обмена."
+    new "Позиция скопирована в буфер обмена."
 
     # _developer\developer.rpym:447
     old "Type to filter: "
-    new "Текущий фильтр: "
+    new "Напечатать для фильтрации: "
 
     # _developer\developer.rpym:575
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "Текстур: [tex_count] ([tex_size_mb:.1f] МБ)"
+    new "Текстуры: [tex_count] ([tex_size_mb:.1f] MB)"
 
     # _developer\developer.rpym:579
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "Кеш изображений: [cache_pct:.1f]% ([cache_size_mb:.1f] МБ)"
+    new "Кэш изображений: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
     # _developer\developer.rpym:589
     old "✔ "
@@ -675,15 +652,15 @@ translate None strings:
 
     # _developer\developer.rpym:597
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n{color=#cfc}✔ предсказанное изображение (хорошо){/color}\n{color=#fcc}✘ внезапное изображение (плохо){/color}\n{color=#fff}Нажмите, чтобы передвинуть.{/color}"
+    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
 
     # _developer\inspector.rpym:38
     old "Displayable Inspector"
-    new "Диспетчер объектов"
+    new "Инспектор изображения"
 
     # _developer\inspector.rpym:61
     old "Size"
-    new "Разрешение"
+    new "Размер"
 
     # _developer\inspector.rpym:65
     old "Style"
@@ -695,31 +672,31 @@ translate None strings:
 
     # _developer\inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new "Инспектирую стили [displayable_name!q]"
+    new "Исследование стилей [displayable_name!q]"
 
     # _developer\inspector.rpym:139
     old "displayable:"
-    new "объект:"
+    new "отображение:"
 
     # _developer\inspector.rpym:145
     old "        (no properties affect the displayable)"
-    new "        (на объект не влияют никакие параметры)"
+    new "        (никакие свойства не влияют на отображение)"
 
     # _developer\inspector.rpym:147
     old "        (default properties omitted)"
-    new "        (настройки по умолчанию опущены)"
+    new "        (свойства по умолчанию опущены)"
 
     # _developer\inspector.rpym:185
     old "<repr() failed>"
-    new "<repr() провален>"
+    new "<repr() failed>"
 
     # _layout\classic_load_save.rpym:170
     old "a"
-    new "а"
+    new "a"
 
     # _layout\classic_load_save.rpym:179
     old "q"
-    new "б"
+    new "q"
 
     # 00iap.rpy:217
     old "Contacting App Store\nPlease Wait..."
@@ -765,13 +742,9 @@ translate None strings:
     old "Updater"
     new "Обновление"
 
-    # 00updater.rpy:1419
-    old "An error has occured:"
-    new "Возникла ошибка:"
-
     # 00updater.rpy:1421
     old "Checking for updates."
-    new "Проверка обновлений."
+    new "Проверка обновления"
 
     # 00updater.rpy:1423
     old "This program is up to date."
@@ -795,7 +768,7 @@ translate None strings:
 
     # 00updater.rpy:1433
     old "Finishing up."
-    new "Завершаю..."
+    new "Завершение"
 
     # 00updater.rpy:1435
     old "The updates have been installed. The program will restart."
@@ -811,11 +784,7 @@ translate None strings:
 
     # 00updater.rpy:1454
     old "Proceed"
-    new "Продолжить"
-
-    # 00compat.rpy:252
-    old "Fullscreen"
-    new "Полный"
+    new "Обработано"
 
     # 00gallery.rpy:573
     old "Image [index] of [count] locked."
@@ -839,47 +808,35 @@ translate None strings:
 
     # 00gltest.rpy:70
     old "Renderer"
-    new "Рендер"
+    new "Визуализатор"
 
     # 00gltest.rpy:74
     old "Automatically Choose"
-    new "Выбирать Автоматически"
+    new "Выбирать автоматически"
 
     # 00gltest.rpy:79
     old "Force Angle/DirectX Renderer"
-    new "Принудительный Angle/DirectX"
+    new "Принуждать Angle/DirectX рендеринг"
 
     # 00gltest.rpy:83
     old "Force OpenGL Renderer"
-    new "Принудительный OpenGL"
+    new "Принуждать OpenGL рендеринг"
 
     # 00gltest.rpy:87
     old "Force Software Renderer"
-    new "Принудительный Программный"
+    new "Принуждать обеспечение рендеринга"
 
     # 00gltest.rpy:93
     old "NPOT"
-    new "NPOT (OpenGL 2+)"
+    new "NPOT"
 
     # 00gltest.rpy:97
     old "Enable"
-    new "Активировано"
-
-    # 00gltest.rpy:101
-    old "Disable"
-    new "Отключено"
-
-    # 00gltest.rpy:108
-    old "Gamepad"
-    new "Геймпад"
-
-    # 00gltest.rpy:122
-    old "Calibrate"
-    new "Калибровка"
+    new "Включен"
 
     # 00gltest.rpy:131
     old "Powersave"
-    new "Экономия энергии"
+    new "Сохрарение энергии"
 
     # 00gltest.rpy:145
     old "Framerate"
@@ -887,7 +844,7 @@ translate None strings:
 
     # 00gltest.rpy:149
     old "Screen"
-    new "Экранная"
+    new "Экран"
 
     # 00gltest.rpy:153
     old "60"
@@ -899,23 +856,19 @@ translate None strings:
 
     # 00gltest.rpy:163
     old "Tearing"
-    new "Разрывание кадров"
+    new "Срыв"
 
     # 00gltest.rpy:179
     old "Changes will take effect the next time this program is run."
-    new "Изменения вступят в силу при следующем запуске программы."
-
-    # 00gltest.rpy:186
-    old "Quit"
-    new "Выход"
+    new "Изменения вступят в силу при следующем запуске этой программы."
 
     # 00gltest.rpy:213
     old "Performance Warning"
-    new "Предупреждение Производительности"
+    new "Предупреждение о производительности"
 
     # 00gltest.rpy:218
     old "This computer is using software rendering."
-    new "Этот компьютер использует программный рендеринг."
+    new "Этот компьютер использует рендеринг программного обеспечения."
 
     # 00gltest.rpy:220
     old "This computer is not using shaders."
@@ -923,19 +876,19 @@ translate None strings:
 
     # 00gltest.rpy:222
     old "This computer is displaying graphics slowly."
-    new "Этот компьютер медленно отображает графику."
+    new "Этот компьютер отображает графику медленно."
 
     # 00gltest.rpy:224
     old "This computer has a problem displaying graphics: [problem]."
-    new "У этого компьютера проблема с отображением графики: [problem]"
+    new "У этого компьютера есть проблема с отображением графики: [problem]."
 
     # 00gltest.rpy:229
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "Графические драйвера устарели или работают неверно. Это может привести к медленному или неверному отображению графики. Обновление DirectX может решить эту проблему."
+    new "Его графические драйверы могут устареть или работать неправильно. Это может привести к медленному или неправильному отображению графики. Обновление DirectX может исправить эту проблему."
 
     # 00gltest.rpy:231
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "Графические драйвера устарели или работают неверно. Это может привести к медленному или неверному отображению графики."
+    new "Его графические драйверы могут устареть или работать неправильно. Это может привести к медленному или неправильному отображению графики."
 
     # 00gltest.rpy:236
     old "Update DirectX"
@@ -943,43 +896,43 @@ translate None strings:
 
     # 00gltest.rpy:242
     old "Continue, Show this warning again"
-    new "Продолжить, Показать это предупреждение снова"
+    new "Продолжить и показывать предупреждения"
 
     # 00gltest.rpy:246
     old "Continue, Don't show warning again"
-    new "Продолжить, Не показывать это предупреждение снова."
+    new "Продолжить и не показывать предупреждения"
 
     # 00gltest.rpy:264
     old "Updating DirectX."
-    new "Обновляю DirectX."
+    new "Обновление DirectX."
 
     # 00gltest.rpy:268
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
-    new "Установщик DirectX был запущен. Возможно, что он запустился в свёрнутом состоянии. Пожалуйста, следуйте инструкциям для установки DirectX."
+    new "Веб загрузка DirectX начата.В панели задач он может быть сведен к минимуму. Следуйте инструкциям по установке DirectX."
 
     # 00gltest.rpy:272
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new "{b}Предупреждение:{/b} Установщик DirectX по умолчанию пытается установить панель инструментов Bing. Если вы этого не хотите, снимите соответствующую галочку."
+    new "{b}Примечание:{/b}Программа установки Microsoft DirectX по умолчанию установит панель инструментов Bing. Если вы не хотите эту панель инструментов, снимите соответствующий флажок."
 
     # 00gltest.rpy:276
     old "When setup finishes, please click below to restart this program."
-    new "По завершению установки, щёлкните, чтобы перезапустить программу."
+    new "Когда загрузка закончится, нажмите внизу для рестарта этой программы."
 
     # 00gltest.rpy:278
     old "Restart"
-    new "Перезапустить"
+    new "Рестарт"
 
     # 00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new "Выберите Геймпад для Калибровки"
+    new "Выберите геймпад для калибровки"
 
     # 00gamepad.rpy:35
     old "No Gamepads Available"
-    new "Геймпады Не Обнаружены"
+    new "Нет доступных геймпадов"
 
     # 00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new "Калибрую [name] ([i]/[total])"
+    new "Калибровка [name] ([i]/[total])"
 
     # 00gamepad.rpy:58
     old "Press or move the [control!r] [kind]."
@@ -987,19 +940,19 @@ translate None strings:
 
     # 00gamepad.rpy:66
     old "Skip (A)"
-    new "Skip (A)"
+    new "Пропустить (A)"
 
     # 00gamepad.rpy:69
     old "Back (B)"
-    new "Back (B)"
+    new "Назад (B)"
 
     # _errorhandling.rpym:528
     old "Open"
-    new "Журнал"
+    new "Открыть"
 
     # _errorhandling.rpym:530
     old "Opens the traceback.txt file in a text editor."
-    new "Открывает файл traceback.txt в текстовом редакторе."
+    new "Открывает traceback.txt в текстовом редакторе"
 
     # _errorhandling.rpym:532
     old "Copy"
@@ -1007,19 +960,19 @@ translate None strings:
 
     # _errorhandling.rpym:534
     old "Copies the traceback.txt file to the clipboard."
-    new "Копирует файл traceback.txt в буфер обмена."
+    new "Копирует traceback.txt в буффер обмена."
 
     # _errorhandling.rpym:561
     old "An exception has occurred."
-    new "Возникло исключение."
+    new "Было вызвано исключение"
 
     # _errorhandling.rpym:581
     old "Rollback"
-    new "Назад"
+    new "Откат"
 
     # _errorhandling.rpym:583
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Пытается вернуться назад, позволяя вам сохраниться или принять другой выбор."
+    new "Попытка возврата к предыдущему времени позволяет вам сохранить или выбрать другой вариант."
 
     # _errorhandling.rpym:586
     old "Ignore"
@@ -1027,11 +980,11 @@ translate None strings:
 
     # _errorhandling.rpym:590
     old "Ignores the exception, allowing you to continue."
-    new "Игнорирует это исключение, позволяя вам продолжить."
+    new "Игнорирует исключение, позволяя продолжить."
 
     # _errorhandling.rpym:592
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "Игнорирует это исключение, позволяя вам продолжить. Зачастую это ведёт к дополнительным ошибкам."
+    new "Игнорирует исключение, позволяя продолжить. Это обычно приводит к дополнительным ошибкам."
 
     # _errorhandling.rpym:596
     old "Reload"
@@ -1039,7 +992,7 @@ translate None strings:
 
     # _errorhandling.rpym:598
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "Перезагружает игру с диска, сохраняя и восстанавливая её состояние, если это возможно."
+    new "Перезагружает игру с диска, сохраняет и восстанавливает состояние игры, если это возможно."
 
     # _errorhandling.rpym:601
     old "Console"
@@ -1047,7 +1000,7 @@ translate None strings:
 
     # _errorhandling.rpym:603
     old "Opens a console to allow debugging the problem."
-    new "Открывает консоль, позволяющую отладить проблему."
+    new "Открывает отладчик для того, чтобы отлаживать задачи"
 
     # _errorhandling.rpym:613
     old "Quits the game."
@@ -1055,77 +1008,13 @@ translate None strings:
 
     # _errorhandling.rpym:637
     old "Parsing the script failed."
-    new "Обработка сценария завершилась неудачно."
+    new "Парсинг скрипта провален."
 
     # _errorhandling.rpym:663
     old "Opens the errors.txt file in a text editor."
-    new "Открывает файл errors.txt в текстовом редакторе."
+    new "Открывает errors.txt файл в текстовом редакторе."
 
     # _errorhandling.rpym:667
     old "Copies the errors.txt file to the clipboard."
-    new "Копирует файл errors.txt в буфер обмена."
-
-    # 00console.rpy:255
-    old "Press <esc> to exit console. Type help for help.\n"
-    new "Нажмите <esc>, чтобы выйти из консоли. Введите help для помощи.\n"
-
-    # 00console.rpy:259
-    old "Ren'Py script enabled."
-    new "Ren'Py script активирован."
-
-    # 00console.rpy:261
-    old "Ren'Py script disabled."
-    new "Ren'Py script деактивирован."
-
-    # 00console.rpy:496
-    old "help: show this help"
-    new "help: показывает помощь"
-
-    # 00console.rpy:501
-    old "commands:\n"
-    new "команды:\n"
-
-    # 00console.rpy:511
-    old " <renpy script statement>: run the statement\n"
-    new " <оператор renpy script>: запуск оператора\n"
-
-    # 00console.rpy:513
-    old " <python expression or statement>: run the expression or statement"
-    new " <выражение или оператор python>: запустить выражение или оператор"
-
-    # 00console.rpy:521
-    old "clear: clear the console history"
-    new "clear: очищает историю консоли"
-
-    # 00console.rpy:525
-    old "exit: exit the console"
-    new "exit: выход из консоли"
-
-    # 00console.rpy:533
-    old "load <slot>: loads the game from slot"
-    new "load <слот>: загружает игру из выбранного слота"
-
-    # 00console.rpy:546
-    old "save <slot>: saves the game in slot"
-    new "save <слот>: сохраняет игру в выбранный слот"
-
-    # 00console.rpy:557
-    old "reload: reloads the game, refreshing the scripts"
-    new "reload: перезагружает игру, обновляет скрипты"
-
-    # 00console.rpy:565
-    old "watch <expression>: watch a python expression"
-    new "watch <выражение>: наблюдать за выражением python"
-
-    # 00console.rpy:591
-    old "unwatch <expression>: stop watching an expression"
-    new "unwatch <выражение>: прекратить наблюдать за выражением"
-
-    # 00console.rpy:622
-    old "unwatchall: stop watching all expressions"
-    new "unwatchall: глобальное прекращение наблюдения"
-
-    # 00console.rpy:639
-    old "jump <label>: jumps to label"
-    new "jump <label>: прыжок на метку"
+    new "Скопировать errors.txt в буфер обмена."
 

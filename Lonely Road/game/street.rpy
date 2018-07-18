@@ -1,35 +1,35 @@
 label act_0_street:
-    "Идёт сильный дождь. "
-    "Его капли разбивают асфальт и прибивают пыль, которая витала в воздухе, к земле."
-    "Вокруг стоят невысокие двухэтажные домики, окрашенные в какую-то серую краску."
-    "На каждом окне дома прицеплены ставни, которые сейчас, в дождь, были надежно закрыты на щеколды."
-    "На улице ни души. Я иду по улице и не могу понять, а как я здесь оказался? Вроде шёл куда-то, а куда - не помню."  
+    "It’s raining hard."
+    "Big raindrops crash asphalt and nail dust, which was flying in the air, to the ground."
+    "Low two-storey houses, colored in some sort of grey color, are standing around me."
+    "On each window of the houses shutters were attached, which now, during the rain, were securely closed with the hecks."
+    "There is no soul in the street. I’m going through the street and I can’t understand how did I appear here? I’ve gone somewhere, but where -I don’t remember."  
     " . . ."
-    "Голуби, спасаясь от сильного ливня, прячутся  под козырьком одного весьма непримечательного бара."
-    "Буквы на вывеске бара уже выцвели и стали практически незаметными, но, если приглядеться, можно прочитать его название: \«Lonely road\»."
-    "Хм, наверное, стоит зайти туда. Все равно у меня нету зонтика, а мокнуть под дождём мне не хочется."  
+    "Pigeons are hiding under the peak of the one close and unremarkable bar in order to be saved from heavy rain."
+    "Letters on the bar sign lost their colours and became almost invisible, but if you look attentively, you’ll see a bar name: \“Lonely road\”. "
+    "Hmpf… it’s worth to visit this place. Anyway, I’ve got no umbrella and I don’t want to soak and catch cold after the rain."  
     " . . ."
     
     jump act_1
 
 label act_4_street:
     
-    "На улице все еще идет дождь, правда, не такой сильный,  как раньше."
-    "Прямо у входа в бар стоят две полицейские машины, меня садят в одну из этих машин."
-    "Захлопнув дверь машины, полицейские быстро начали собираться и садиться в машины."
-    "На крыльце остаться лишь один из них, немолодой, с блокнотом в руках, и неторопливо разговаривал с девушкой."
-    "Она уже не размахивала руками и не выплескивала сотни фраз одним потоком, а просто стояла с невозмутимым видом, опершись о дверной косяк, и односложно отвечала на вопросы собеседника, причем отвечала так, будто ей это уже не впервой:"
+    "It's still raining outside, though not as strong as before."
+    "Directly at the entrance to the bar there are two police cars, they put me in one of them. "
+    "Slamming the car door, the police quickly began to assemble and get into the car."
+    "There was only one of them left on the porch, elderly, with a notebook in his hands, and talked leisurely to the girl."
+    "She no longer waved her hands and did not throw out hundreds of phrases by one stream, but simply stood with an unflappable air, leaning against the door jamb and responding monosyllabically to the interlocutor's questions, and answered as if she were not the first time:"
 
-    kira "{b}Да …{/b}"
-
-    policeman "{b}...{/b}"
-
-    kira "{b}Да …{/b}"
+    kira "{b}Yes …{/b}"
 
     policeman "{b}...{/b}"
 
-    kira "{b}Да, это он...{/b}"
+    kira "{b}Yes …{/b}"
 
-    "Полицейская машина тронулась и увезла меня в темноту…"
+    policeman "{b}...{/b}"
+
+    kira "{b}Yeah, that’s him...{/b}"
+
+    "The police car started off and took me to the darkness…"
 
     jump end_game
