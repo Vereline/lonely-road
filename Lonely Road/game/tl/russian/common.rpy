@@ -1016,7 +1016,7 @@ translate russian strings:
 
     # _errorhandling.rpym:667
     old "Copies the errors.txt file to the clipboard."
-    new "Скопировать errors.txt в буфер обмена."
+    new "Копирует errors.txt в буфер обмена."
 
 # TODO: Translation updated at 2018-07-18 23:55
 
@@ -1024,13 +1024,13 @@ translate russian strings:
 
     # 00director.rpy:1628
     old "Change"
-    new ""
+    new "Изменить"
 
     # 00preferences.rpy:373
     old "emphasize audio"
-    new ""
+    new "выделить аудио"
 
     # 00updater.rpy:1419
     old "An error has occured:"
-    new ""
+    new "Произошла ошибка:"
 
