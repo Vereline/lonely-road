@@ -1,4 +1,8 @@
 label act_1_bar:
+
+    scene bg_bar:
+        zoom 0.68
+
     "So, it’s not so bad inside, but there is nobody."
     "There are staying several round and shabby wooden tables, ragged to shine."
     "В дальнем конце помещения, где-то в темноте стоит старый, но все еще рабочий музыкальный автомат. Он мигает своими уцелевшими лампочками и зовёт опустить в него монетку и насладиться джазом."
@@ -45,7 +49,7 @@ label act_2_bar:
     "Посидев с минуту, девушка наконец обратилась к бармену:"
 
     show kira_dafault:
-        xalign 0.5 yalign 1 xzoom 0.3 yzoom 0.3
+        xalign 0.5 yalign 1 xzoom 0.3 yzoom 0.3 ypos 0.2
 
     kira "{b}Мне бы чаю горячего.{/b}"
 
@@ -69,7 +73,7 @@ label act_2_bar:
     $ Kira_name = 'Kira'
 
     python:
-        name_question = "What is your name?"
+        name_question = _("What is your name?")
         me = renpy.input(name_question)
         me = me.strip()
 

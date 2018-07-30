@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/bar.rpy", line 48: ATL statement contains two expressions in a row; is one of them a misspelled property? If not, separate them with pass.
-    style "kira_sprite_style"
-                             ^
-
-File "game/script.rpy", line 23: style property xzoom is not known.
-    xzoom 0.3
-         ^
+File "game/script.rpy", line 27: style property pass is not known.
+    pass
+        ^
 
 Ren'Py Version: Ren'Py 7.0.0.196
-Wed Jul 18 00:51:25 2018
+Mon Jul 30 21:25:39 2018

@@ -18,9 +18,18 @@ image kira_shock = 'sprites/sprite-shock.png'
 image kira_superangry = 'sprites/sprite-superangry.png'
 image kira_thinking = 'sprites/sprite-thinking.png'
 
+image bg_bar = 'background/bar.jpg'
+# image bg_street = None
+
+# $ centre-lower = Position(xanchor=0.5,xpos=0.5, yanchor=0.8, ypos=1.0)
+
 style centered_style:
     xalign 0.5
     yalign 0.5
+    # xanchor 0.5
+    # xpos 0.5
+    # yanchor 0.8
+    # ypos 1.0
 
 screen act_button(number=0, text_size=40):
     hbox:
