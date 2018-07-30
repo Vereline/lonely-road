@@ -5,8 +5,8 @@
 
 define kira = DynamicCharacter("Kira_name")
 define me = DynamicCharacter("Me_name")
-define bartender = Character('Bartender')
-define policeman = Character('Policeman')
+define bartender = Character(_('Bartender'))
+define policeman = Character(_('Policeman'))
 
 image kira_dafault = 'sprites/sprite-default.png'
 image kira_baka = 'sprites/sprite-baka.png'
@@ -44,8 +44,8 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    $ Me_name = 'Me'
-    $ Kira_name = 'Girl'
+    $ Me_name = _('Me')
+    $ Kira_name = _('Girl')
 
     show screen act_button(1)
 
