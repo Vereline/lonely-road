@@ -5,72 +5,72 @@ label act_1_bar:
 
     "So, it’s not so bad inside, but there is nobody."
     "There are staying several round and shabby wooden tables, ragged to shine."
-    "В дальнем конце помещения, где-то в темноте стоит старый, но все еще рабочий музыкальный автомат. Он мигает своими уцелевшими лампочками и зовёт опустить в него монетку и насладиться джазом."
-    "За барной стойкой стоит полусонный бармен, уже, видимо, по инерции протирающий до блеска и без того чистую и блестящую стойку."
-    "Рядом висит на подставке старенький телевизор, вещающий что-то о новостях за неделю. За барменом на полках стоят уже открытые и опустошенные наполовину различные напитки."
-    "Где-то вдалеке играет тихая и спокойная музыка, явно приглашая гостей задержаться, посидеть и пропустить еще стакашку чего-нибудь крепкого и согревающего." 
+    "In the far corner, somewhere in the dark an old, but still working jukebox is playing. It flashes with its survived light bulbs and calls to push a small coin into it to enjoy the jazz."
+    "A half-asleep bartender stands behind the bar and, apparently, blanches by inertia already clean and shiny stand."
+    "Nearby hangs an old tv, telling some news of the week. Behind the bartender, on shelves, there are placed already opened and half emptied different drinks."
+    "Somewhere far away plays calm and quiet music, obviously inviting guests to stay, sit down and take one more glass of something strong and warming." 
 
-    me "{b}Добрый день, мне стакашку тёмного.{/b}" 
+    me "{b}Good evening, a glass of dark, please.{/b}" 
 
-    "Бармен смотрит на меня исподлобья, затем быстро прячется  за стойку. Спустя минуту поднимается  уже с большим бокалом, наполненным до краев." 
+    "The bartender watches at me sullenly, then quickly hides under the rack. A minute later he raises with a big glass, filled up to the edges." 
 
-    bartender "{b}С вас 4.50.{/b}" 
+    bartender "{b}It’s 4.50{/b}" 
 
-    "Я сижу и пробую на вкус содержимое бокала. На первый взгляд, ничего примечательного, однако спустя мгновение по телу разливается тепло." 
+    "I’m sitting and tasting the contents of the glass. On the first view, nothing remarkable, but after a moment a strong heat is spilling through the body." 
     ". . ."
-    "Я сижу и думаю о чем-то, о чем-то далеком. Вдруг слышу:"
+    "I’m sitting and thinking about something, something far. Suddenly, I hear:"
 
-    bartender "{b}Ну что, как погодка? Сильный дождь?{/b}"
+    bartender "{b}So, how’s the weather? Is it raining hard?{/b}"
 
     menu is_it_raining:
-        "{b}Да так, льёт ещё.{/b}":
-            me "{b}Да так, льёт ещё.{/b}"
-            bartender "{b}А ведь погода, все-таки, штука странная. Сегодня по прогнозу ни облачка, а на деле…{/b}"
+        "{b}Well, yea, it’s raining hard.{/b}":
+            me "{b}Well, yea, it’s raining hard.{/b}"
+            bartender "{b}Heck, the weather is a strange thing. Today the forecast promised neither the clouds here, but in real…{/b}"
         "{b}. . .{/b}":
             me "{b}. . .{/b}"
-            "Бармен посмотрел на меня, будто хотел что-то услышать, однако, так и не получив ответа, быстро отвернулся и стал щёлкать каналы по телевизору." 
+            "The bartender looked at me, waiting for me to answer something. However, he didn’t get any response, quickly turned around and started switching tv channels." 
 
-    "Прощелкав все каналы и не найдя ничего интересного, бармен снова обратился ко мне:"
-    bartender "{b}От, слухи ходят, так ходят. Поговаривают, девочку нашли, на путях, всю порезанную, аж жуть… Как вспомнишь, так вздрогнешь, такое зрелище не каждому дано выдержать… Я вот не видел, правда… А ты слыхал?{/b}"
-    me "{b}Да нет, впервые слышу. А что ещё говорят?{/b}"
-    bartender "{b}Да вот, убийцу ищут, все никак не найдут. А у нас городок маленький, все знают друг друга в лицо. Значит, этот убийца - один из нас?{/b}"
-    me "{b}Это точно.{/b}" 
+    "Switched all available tv channels and didn’t find anything interesting, the bartender again contacted me:"
+    bartender "{b}Look, rumours go, so go. They say, that the girl was found at the railroad, she was totally cut, that’s awkward. As you remember, you shudder, such a spectacle is not given to everyone… Sincerely speaking, I didn’t see it. Did you hear that?{/b}"
+    me "{b}Well, nope, I hear this thing the first time. What else do people say?{/b}"
+    bartender "{b}As far as I know, they look for the murderer, but they can’t find him. Well, we live in a small town, where everyone knows each other in person. That means this murderer is one of us?{/b}"
+    me "{b}That’s the point.{/b}" 
 
     jump act_2
 
 label act_2_bar:
-    "Я так сижу долго и все думаю, как меня вдруг резко разбудил стук двери."
-    "В бар зашла девушка, вся мокрая, запыхавшаяся от бега  и чем-то жутко недовольная."
-    "Она быстро подбежала к стойке, вскарабкалась на высокий стул и плюхнулась, вздохнув с облегчением."
-    "Девушка была одета в черное пальто, под которым виднелись красная юбка-шотландка и белая рубашка, промокшая насквозь и прилипшая к телу."
-    "На ногах у девушки были уже посеревшие от дождя и грязи некогда белые гольфы и черные туфли, похожие на школьные ботиночки первоклашек."
+    "So, I was sitting and thinking for a long time, as suddenly I was abruptly woke up by a knock on the door."
+    "The girl entered the bar, she was completely wet, out of breath and terribly dissatisfied with something."
+    "She quickly ran to the rack, climbed on a high chair and flopped on it, sighing with relief."
+    "The girl was wearing a black coat, under which a red Scottish skirt and white shirt were seen, a shirt was soaked through and adhered to the body."
+    "At the feet of the girl were already greyed cause of rain and dirt somewhen white knee-highs and black shoes looked similar to school boots of first-formers."
     # ". . ."
-    "На соседний стул незнакомка поставила свой маленький портфельчик, с которого ручьями стекала вода, а затем навесила на него своё пальто, которое было бы неплохо выжать."
-    "Посидев с минуту, девушка наконец обратилась к бармену:"
+    "On the next chair, stranger put her small bag, from which water streamed down, and then hang on it her coat, which would be nice to be squeezed."
+    "After sitting for a minute, the girl finally applied to the bartender:"
 
     show kira_dafault:
         xalign 0.5 yalign 1 xzoom 0.3 yzoom 0.3 ypos 0.2
 
-    kira "{b}Мне бы чаю горячего.{/b}"
+    kira "{b}Would you give me a cup of hot tea?{/b}"
 
-    "Бармен подошел и без слов налил чашку горячего чая, приложив рядом полагающуюся бесплатную маленькую шоколадку."
-    "Девушка мигом отпила горячий напиток, поставила кружку и прикрыла глаза, явно о чем-то думая."
+    "The bartender came to her and silently poured a cup of hot tea and put obligatory free small chocolate bar near the cup."
+    "The girl instantly took a hot drink, put a cup and closed eyes, thinking about something."
     ". . ."
-    "Так мы сидели около получаса. Наконец она открыла глаза, повернула ко мне голову и сказала:"  
+    "We were sitting for about half an hour this way. Suddenly she opened her eyes, turned her head to me and said:"  
 
-    kira "{b}Привет! Ну и погодка сегодня!{/b}"
+    kira "{b}Oh, hi! What a strange weather today!{/b}"
 
-    "Потом обвела меня взглядом и неожиданно спросила:" 
+    "Then she looked me around and asked unexpectedly:" 
 
-    kira "{b}Неужели за мной так интересно наблюдать?{/b}"   
+    kira "{b}Is it such interesting to watch me?{/b}"   
 
-    "Я поперхнулся от удивления."
-    "Только сейчас заметил, что все это время пристально наблюдал за ней."
-    "Мне стало слегка неловко. Я было уже начал отворачиваться в другую сторону, как услышал:"
+    "I choked with surprise."
+    "Only now I noticed that all this time I stared at her."
+    "I felt slightly uncomfortable.  I was already turning away the other way, as I heard:"
     
-    kira "{b}А ведь это местечко ничего такое, интересненькое. Кстати, меня Кира зовут.{/b}"
+    kira "{b}And this place seems to be soooo… interesting. By the way, my name is Kira.{/b}"
 
-    $ Kira_name = 'Kira'
+    $ Kira_name = _('Kira')
 
     python:
         name_question = _("What is your name?")
@@ -78,224 +78,227 @@ label act_2_bar:
         me = me.strip()
 
         if not me:
-                me = "Me"
+                me = _("Me")
 
-    kira "{b}Приятно познакомиться!{/b}"
+    "I introduced myself."
 
-    me "{b}Взаимно.{/b}"
+    kira "{b}Nice to meet you!{/b}"
 
-    kira "{b}Как жизнь?{/b}"
+    me "{b}And you.{/b}"
+
+    kira "{b}How do you do?{/b}"
 
     menu how_do_you_do:
-        "{b}Норм.{/b}":
-            me "{b}Норм.{/b}"
-            kira "{b}Ну, норм, так норм, чего сказать тут ещё?{/b}"
+        "{b}Fine.{/b}":
+            me "{b}Fine.{/b}"
+            kira "{b}Well, fine means fine, what else can I say?{/b}"
         
-        "{b}Да ничего, перебиваюсь потихоньку.{/b}":
-            me "{b}Да ничего, перебиваюсь потихоньку.{/b}"
-            kira "{b}Хехе, неплохо, неплохо, жизнь медленно течет в этом городке, и мы стараемся не отставать от неё.{/b}" 
+        "{b}Well, I’m not bad, just trying to live here.{/b}":
+            me "{b}Well, I’m not bad, just trying to live here.{/b}"
+            kira "{b}Hehe, not bad, not bad, life just slowly flows in this town, and we’re trying not to get behind it.{/b}" 
 
-        "{b}Все плохо.{/b}":
-            me "{b}Все плохо.{/b}"
-            kira "{b}Нууууу, всегда в самой плохой ситуации надо находить что-то хорошее, не стоит так себя угнетать.{/b}" 
+        "{b}It can’t be worse.{/b}":
+            me "{b}It can’t be worse.{/b}"
+            kira "{b}Well, it worth to look for something good in every terrible situation, you don’t have to depress yourself.{/b}" 
 
-    "Кира отхлебнула еще глоток чая и распаковала шоколадку."
-    "Достав из кармана юбки маленький перочинный ножик, она ловко разделила сладкое угощение на две части."
+    "Kira drank one more sip of tea and unpacked a small chocolate bar."
+    "She got from skirts’ pocket small Swedish pen knife and skillfully shared sweet treat into two pieces."
 
-    kira "{b}Угощайся!{/b}"
+    kira "{b}Treat yourself!{/b}"
 
-    "Мои глаза пристально наблюдали за перочинным ножиком. Он такой маленький и удобный, спорю на что угодно, его можно везде запросто пронести, настолько он незаметен."
-    "Кира спрятала свой ножичек в карман, а я машинально, глядя на нее, засунул свою руку в карман брюк."
-    "Нащупываю что-то холодное, металлическое. Неужели тоже ножик?"
-    "Это нечто было настолько ржавым, скользким и неприятным, что я немедленно одернул руку и положил ее на барную стойку."
-    "На лбу проступил пот. Странно, что это со мной? {b}Что в кармане?{/b}"
+    "My eyes stared at her penknife. It’s so small and comfortable, I bet on anything, it can be carried everywhere without fail, so it is invisible."
+    "Kira hid her small knife in pocket, and I mechanically, looking at her, shove hand in the pants pocket."
+    "I feel something cold and metallic. Is it really also a knife?"
+    "It was so rusty, slippery and unpleasant, that I instantly pulled my hand and put in on the bar counter."
+    "My forehead just sweated. It’s strange, what’s wrong with me? {b} What’s in the pocket?{/b}"
 
-    "От Киры это не укрылось."
-    "Она быстро обвела меня взглядом и о чем-то призадумалась."
-    "Видимо, решив немного меня отвлечь и заполнить неловкое молчание, она начала говорить:"
+    "It did not hide from Kira."
+    "She quickly looked me around again and thought about something."
+    "Apparently, having decided to distract me a little and fill an embarrassing silence, she began to talk:"
 
-    kira "{b}Ух, ну и железка у вас, такая шумная, такая громкая!{/b}"
+    kira "{b}Uh, well, your rail is extremely noisy and super loud!{/b}"
 
-    "Я прислушался к шуму снаружи и услышал постукивание колес электропоезда и скрип старых составов на железной дороге, что неподалёку."
+    "I listened to the noise outside and heard the tapping of the electric train's wheels and the creaking of old trains on the railway which is nearby."
     
-    me "{b}Ну да, есть такое. Вообще, железная дорога - это единственное место, которое хоть чем-то интересно в этом старом скучном городе.{/b}"
+    me "{b}Well, yes, there is. In general, the railway is the only place, which is at least something interesting in this old boring town.{/b}"
     
-    kira "{b}Хм, я уверена, что есть ещё замечательные места! Вот, когда бежала мимо, краем глаза заприметила парк с фонтаном. Надо бы наведаться туда, когда дождь кончится.{/b}"
+    kira "{b}Hey, I’m pretty sure, that there are lots of remarkable places! Here, when I ran past old square, I noticed by the eye park with a fountain. I’m thinking about visiting that place when the rain stops.{/b}"
     
-    "{i}Меня резко забила дрожь. В голове всплыли образы старого леса, заросших тропинок, старого фонтана, который едва-едва выпускает струйки мутно-зеленой вонючей воды, маленькая девочка, бегущая домой по парку наперерез.{/i}"
-    "{i}Я сижу на лавочке и думаю о чем-то… Неважно, о чем. {/i}"
+    "{i}I sharply scored a shiver. Some images surfaced in my head, there were images of the ugly old forest, overgrown paths, old fountain, which hardly released jets of dark-green stinking water, a small girl, running home across the park.{/i}"
+    "{i}I’m sitting on the bench and thinking about something…No matter, about what.{/i}"
     
-    kira "{b}Эй, ты окей?{/b}"
+    kira "{b}Hey! Are you alright?{/b}"
 
-    me "{b}Да, все в порядке, просто задумался.{/b}"
+    me "{b}Yeah, I’m fine, just thinking.{/b}"
 
-    kira "{b}Ну, тогда ладно. Да и вообще, не такой уже и скучный город, я уверена, в нем есть жизнь!{/b}"
+    kira "{b}Well, okay. And in general, this town is not so boring, as you think, I’m sure, it has a life!{/b}"
 
-    "Ее экспрессия начинает мне надоедать."
-    "Моя новая собеседница открыла свежий номер газеты и, уставившись куда-то на странице, спросила:"
+    "Her expression started to annoy me."
+    "My new companion opened a recent newspaper and being stared somewhere on the page, asked me:"
     
-    kira "{b}Я в этом городе совсем недавно. Как жизнь, что в городе происходит?{/b}"
+    kira "{b}I came to this town quite recently. How is life, what is happening in the town?{/b}"
 
-    me "{b}Да так, ничего особенного, городок маленький, ничего и не происходит.{/b}"
+    me "{b}Well, nothing special, our town is small, and nothing happens.{/b}"
 
-    kira "{b}А разве ты не читал про убийство некой девочки на железнодорожных путях?{/b}"
+    kira "{b}Haven’t you read about the murder of a girl on the railway tracks?{/b}"
 
-    me "{b}Да и там ничего интересного, ну, подумаешь, подкинули труп на пути.{/b}"
+    me "{b}And there is nothing interesting, well, you think, somebody threw the body on the way.{/b}"
 
-    "{i}Никаких газет,  я, разумеется, не читал, лишь так, озвучил слухи, чтобы она от меня отстала.{/i}"
+    "{i}I didn’t read any newspapers, of course, so I just announced some rumours that she would leave me alone.{/i}"
 
-    kira "{b}Ух ты, ничего себе, а ведь такое не каждый день происходит! И, что, как в настоящих детективах, и свидетелей не нашлось?{/b}"
+    kira "{b}Wow, wow, but this doesn’t happen every day! And, as in real detectives, there were no witnesses?{/b}"
     
-    me "{b}Да что-то типа того.{/b}"
+    me "{b}It seems to be something like that.{/b}"
 
-    kira "{b}И убийцу уже нашли?{/b}"
+    kira "{b}Is the murderer already found?{/b}"
 
-    me "{b}Да нет ещё, если бы нашли, то написали бы.{/b}"
+    me "{b}Definitely no, if police had found that guy, they would have written about this in the newspaper.{/b}"
 
-    kira "{b}О боже, зря ты это сказал, теперь мне страшно выходить на улицу!{/b}"
+    kira "{b}Oh no, you shouldn’t have said it, now I'm afraid to go out!{/b}"
 
-    "Девушка была экспрессивная, много и быстро болтала и ещё активно жестикулировала. Ну и болтунья!"
+    "The girl was expressive, talked a lot and quickly and gesticulated actively. What a chatterbox!"
 
-    kira "{b}А ещё что расскажешь? Мне так интересно!{/b}"
+    kira "{b}What else can you tell me, I am so interested!{/b}"
 
-    me "{b}… Ээээ, а что?{/b}"
+    me "{b}… Emmm, what?{/b}"
 
-    kira "{b}А как девочку зовут?{/b}"
+    kira "{b}What’s her name?{/b}"
 
-    me "{b}Не знаю.{/b}"
+    me "{b}I don’t know.{/b}"
 
-    kira "{b}О, а она школьница была, знаешь?{/b}"
+    kira "{b}Oh, don’t you know, whether she was a pupil or not?{/b}"
 
-    me "{b}Не знаю.{/b}"
+    me "{b}I don’t know!{/b}"
 
-    kira "{b}А в каком классе она учится? А сколько ей лет?{/b}"
+    kira "{b}And in which class was she studying? How old was she?{/b}"
 
-    me "{b}Да не знаю я!{/b}"
+    me "{b}The hell I know!{/b}"
 
-    kira "{b}Хм, ну и ладно. Больно и хотелось узнать.{/b}"
+    kira "{b}Hmm, well, okay. I wouldn’t like to know too much, anyway.{/b}"
 
-    "Кира демонстративно отвернулась, надула щеки, как у хомяка, и стала недовольно смотреть в потолок."
+    "Kira defiantly turned away, puffed out her cheeks like a hamster, and began to look at the ceiling with displeasure."
 
     "{i}. . .{/i}"
-    "{i}...Девочка подбежала к фонтану и сбавила темп. Дальше она просто шла, восстанавливая дыхание.{/i}"
-    "{i}По щекам текут слезы, брови нахмурены, губы сжаты, щеки надуты  и ручки сжаты в кулачки, а за спиной новый красный рюкзачок, почему-то старательно вывалянный в грязи.{/i}"
-    "{i}Теперь я понимаю, почему она шла недовольная...{/i}"
+    "{i}...The girl ran to the fountain and lowered tempo. Then she simply walked, restoring breathing.{/i}"
+    "{i}Tears are flowing down her cheeks, her brows have frowned, his lips are compressed, her cheeks are inflated and her hands are clenched into fists, and behind her back is a new red rucksack, for some reason diligently piled in the mud.{/i}"
+    "{i}Now I see, why she was disappointed…{/i}"
 
-    kira "{b}А вот представляешь, кого я сегодня увидела! Вашего мэра! Как мне известно, он личность скрытая, из дому не выходит почти.  А сегодня вот взял и вышел. Раздал множество интервью, пообщался с народом…{/b}"
+    kira "{b}Can you imagine, whom did I meet today? Your mayor! As I know, he is a hidden person, he does not get out almost from home.  And today he took it and went out. He gave a lot of interviews, talked with the people ...{/b}"
     kira "{b}...{/b}"
     
-    "Я стал потихоньку зевать, уставая от ее болтовни, и засунул руки в карманы, чтобы не завалиться в сон."
+    "I began to yawn, tired of her chatter, and put my hands in my pockets, so as not to fall asleep."
 
     kira "{b}...{/b}"
-    kira "{b}… ведь полиция обязана искать преступника, а не шастать по домам и расспрашивать, у кого какие планы…{/b}"
+    kira "{b}… because the police must look for a criminal, but not to look through their homes and ask who has any plans…{/b}"
     kira "{b}...{/b}"
     
-    "До меня доходили только обрывки ее фраз, я уже давно перестал слушать и воспринимать ее монолог."
+    "Only snatches of her phrases reached me, I had long ceased to listen and perceive her monologue."
     
     kira "{b}...{/b}"
-    kira "{b}…а ведь налоги, которые вы платите, уходят им на оборудование, а они и не пользуются, все ходят вручную...{/b}"
+    kira "{b}… but the taxes that you pay go to them for equipment, and they don’t use it, still walking by hand...{/b}"
     kira "{b}...{/b}"
-    kira "{b}…а у одного из них есть забавный песель по кличке Чаппи, хороший сосед, однако…{/b}"
+    kira "{b}… and one of them has a funny doggie called Chappi, he’s a good neighbour, however…{/b}"
     kira "{b}...{/b}"
 
-    "Она все говорила и говорила."
+    "She kept talking and talking."
 
-    kira "{b}Так  где, говоришь?{/b}"
+    kira "{b}...{/b}"
+    kira "{b}So where did you say?{/b}"
 
-    "Я встрепенулся."
+    "I cheered up."
 
-    me "{b}Что где?{/b}"
+    me "{b}What where?{/b}"
 
-    kira "{b}Эй, ты что, меня не слушаешь?{/b}"
+    kira "{b}Hey, aren’t you listening to me?{/b}"
 
-    me "{b}Эээээ, да я все слушал, слушал, просто думаю. Скажи ещё раз, о чем ты спросила?{/b}"
+    me "{b}Eeeem, I was listening, of course, just thinking. Tell me one more time, what did you asked me about?{/b}"
 
-    kira "{b}Где же убили девочку?{/b}"
+    kira "{b}Where was the girl killed?{/b}"
 
-    "Резкий вопрос выбил меня из колеи. Так что там по слухам говорили? Надо что-то придумать..."
+    "The sharp question knocked me out of the rut. So what's rumoured to be said? I Need to come up with something..."
 
     me "{b}…{/b}"
 
-    kira "{b}Ну?{/b}"
+    kira "{b}So?{/b}"
 
     menu location_of_nurderer:
-        "{b}На берегу реки.{/b}":
+        "{b}On the river coast.{/b}":
             pass
-        "{b}В лесу.{/b}":
+        "{b}In the forest.{/b}":
             pass
-        "{b}На заброшенном складе.{/b}":
+        "{b}In the abandoned warehouse.{/b}":
             pass
-        "{b}На железнодорожных путях.{/b}":
+        "{b}At the railway station.{/b}":
             pass
-        "{b}Где-то в подворотне.{/b}":
+        "{b}Somewhere in the doorway.{/b}":
             pass
 
-    kira "{b}Да ладно, не дури! Сам понимаешь, что это не логично. Но где?{/b}"
+    kira "{b}Come on, don’t be silly! You may see by yourself, that that’s not logical. But where?{/b}"
 
-    "Что-то щелкнуло у меня в голове."
+    "Something clicked in my head."
 
-    "{i}...Девочка, минув фонтан, шла все менее и менее уверенно.{/i}"
-    "{i}Кажется, она сейчас заплачет. Увидев меня, девочка подбежала и спросила что-то про салфетки.{/i}"
-    "{i}А я все сижу на лавочке и думаю о чем-то… Неважно, о чем, или важно? Хотя... {/i}"
+    "{i}...The girl, passing the fountain, walked less and less confidently.{/i}"
+    "{i}It seems that she’s going to cry right now. Seeing me, the girl ran up and asked something about napkins.{/i}"
+    "{i}And I’m sitting on the bench and thinking about something… It doesn’t matter, about what, or does it matter? Although...{/i}"
 
-    me "{b}В парке, на центральной аллее, за крайней правой скамейкой.{/b}"
+    me "{b}In the park, on the central avenue, behind the extreme right bench.{/b}"
 
-    kira "{b}Аааааа, так вот оно что! Логично, логично, а главное, как хорошо сходится!{/b}"
-    kira "{b}Только это... откуда ты это знаешь? В газете про это не написано!{/b}"
+    kira "{b}Aааааа, so that's it! Logical, logical, and most importantly, how well it converges!{/b}"
+    kira "{b}Just one more thing... How did you know that? The newspaper does not say this!{/b}"
 
-    "Я напрягся."
+    "I strained."
 
-    me "{b}Да так… Эмммм… Слухи тут ходят.{/b}"
+    me "{b}Err... Ummm... the rumours are here{/b}"
 
-    kira "{b}Слухи? Какие слухи?{/b}"
+    kira "{b}Rumours? What kind of rumours?{/b}"
     
-    me "{b}Да так, слышал.{/b}"
+    me "{b}Well, I heard it.{/b}"
 
-    "Но уже ничего говорить не хотелось. Девушка испытывала меня взглядом, явно раскусив меня. Я явно сболтнул лишнего."
+    "But I didn’t want to say anything. The girl tested me with a look, obviously having bitten me. I obviously blurted out too much."
 
-    kira "{b}Да что ты говоришь?)){/b}"
+    kira "{b}What are you talking about?)){/b}"
 
-    me "{b}Так, девушка, перестаньте меня нервировать!{/b}"
+    me "{b}Well, girl, stop annoying me!{/b}"
 
-    "Вдруг она неожиданно придвинулась ко мне и резко закричала:"
+    "Suddenly she moved closer to me and screamed sharply:"
 
-    kira "{b}РУКИ ВВЕРХ!{/b}"
+    kira "{b}FREEZE!{/b}"
 
-    "От неожиданности подскочил на стуле и резко вынул руки из карманов."
-    "Этих резких движений было достаточно, чтобы из карманов штанов вывалился маленький перочинный ножик, уже тупой и с пятнами засохшей крови."
+    "I jumped in surprise on the chair and sharply took my hands out of my pockets."
+    "These sharp movements were enough to make a small penknife fall from the pockets of my trousers, already blunt and stained with dried blood."
 
-    kira "{b}Теперь паззл весь сложился.{/b}"
+    kira "{b}Now the puzzle is done.{/b}"
 
     jump act_3
 
 label act_3_bar:
     
-    "Она жестом поманила кого-то за окном, и в бар вбежали сразу четверо полицейских, окружили, нацепили наручники и пригнули к столу."
+    "She beckoned to someone outside the window, and four policemen ran into the bar at once, surrounded, cuffed and bent to the table."
 
-    kira "{b}Ага, вот и преступничек попался. Я сразу поняла, что это ты: уж больно хорошо картину преступления знаешь.{/b}"
-    kira "{b}Согласись, я тебя здорово уболтала! Это мой личный приём, никогда с такими, как ты, осечек не давал, когда человек еще находится в прострации после преступления, его проще всего вывести на чистую воду именно так!{/b}"
+    kira "{b}Yeah, that's the criminal got caught. I immediately realized that it was you: well, the picture is obvious: the girl is on the road, with a knife.{/b}"
+    kira "{b}Agree, I have a great talk! This is my personal reception, never with someone like you, did not give a misfire, when a person is still in prostration after a crime, it's easiest to bring it out in clean water exactly!{/b}"
 
-    kira "{b}Ведь никаких газет не выходило, да и слухов не было. Вот, посмотри! Кукла!{/b}"
+    kira "{b}Because there were no newspapers, and there were no rumours. Here, look! A doll!{/b}"
 
-    "Она развернула газету и показала мне внутренний разворот. Там были только абсолютно чистые, но мокрые листы."
+    "She launched a newspaper and showed me an internal turn. There were only absolutely clean, but wet sheets."
 
-    kira "{b}Девочку-то нашли всего час назад! Ну и картина налицо: девочка на путях, с ножевыми…{/b}"
+    kira "{b}The girl was found just an hour ago! Well, the picture is obvious: the girl is on the road, with knife injuries…{/b}"
 
-    "Кира еще раз осмотрела меня. Теперь новым, ликующим взглядом. Не знаю, как это описать, но я начал ее бояться, по-настоящему бояться."    
+    "Kira examined me once more. Now a new, gleeful look. I do not know how to describe it, but I began to be afraid of it, really afraid."    
 
-    kira "{b}Эй, только ты учти, что я все записала, видишь?{/b}"
+    kira "{b}Hey, only you remember that I recorded everything, you see?{/b}"
 
-    "Девушка взяла в руки пальто и повернула ко мне свой портфельчик другой стороной. Из маленького кармашка, надежно спрятанного от моих глаз, торчал портативный диктофон."
+    "The girl took up her coat and turned her briefcase to me with the other side. From a small pocket, securely hidden from my eyes, protruded a portable recorder."
 
-    kira "{b}Ну что, Алекс, заскучал? Долго мы тут болтали?{/b}"
+    kira "{b}Well, Alex, bored? How long did we chat here?{/b}"
 
-    bartender "{b}Да ничего, ничего, я уже было подумал, что ты его не уломаешь. Проспорил двадцатку, однако!{/b}"
+    bartender "{b}Oh, nothing, nothing, I already thought that you would not break him down. I've lost the twenty, however!{/b}"
 
-    kira "{b}Ах, да, совсем забыла, познакомься - это Алекс, свой человек. Как раз подкинул тебе пару слухов, подготовил к нашей беседе, так сказать.{/b}"
+    kira "{b}Ah, yes, I completely forgot, meet this guy - it's Alex, our man. He just threw you a couple of rumours and prepared for our conversation, so to speak.{/b}"
 
-    "Она подошла к стулу, на котором я сидел, нагнулась под барную стойку и, немного пошарив в темноте, достала мой старый перочинный ножик."
+    "She came to the chair, on which I had sat, bent down under the bar and, a little fumbling in the dark, took out my old penknife."
 
-    kira "{b}А вот и ножик! Смотрите, на нем кровь!{/b}"
-    kira "{b}Ууу, какой хороший образец. Настоящий швейцарский ножик, проржавел немного, правда, но выглядит действительно неплохо. Сажайте его, ребятки.{/b}"  
+    kira "{b}And here’s a knife! Look, there is blood on it!{/b}"
+    kira "{b}Ugh, what a good thing. This Swiss knife, rusted a little, though, but it looks really good. Get him, guys.{/b}"  
 
     jump act_4

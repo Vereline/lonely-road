@@ -36,3 +36,23 @@ translate russian end_game_fec97169:
     # "To be continued..."
     "Продолжение следует..."
 
+# TODO: Translation updated at 2018-08-06 00:02
+
+translate russian strings:
+
+    # script.rpy:8
+    old "Bartender"
+    new "Бармен"
+
+    # script.rpy:9
+    old "Policeman"
+    new "Полицейский"
+
+    # script.rpy:56
+    old "Me"
+    new "Я"
+
+    # script.rpy:57
+    old "Girl"
+    new "Девушка"
+
