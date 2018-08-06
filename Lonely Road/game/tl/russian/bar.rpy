@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2018-07-19 00:23
+# TODO: Translation updated at 2018-07-19 00:23
 
 # game/bar.rpy:2
 translate russian act_1_bar_e8a87062:
@@ -6,58 +6,59 @@ translate russian act_1_bar_e8a87062:
     # "So, it’s not so bad inside, but there is nobody."
     "А внутри он совсем ничего, правда, и здесь никого нет."
 
-# game/bar.rpy:3
-translate russian act_1_bar_57567b2c:
-
-    # "There are staying several round and shabby wooden tables , ragged to shine."
-    "В подвальном помещении стоят несколько круглых деревянных столиков, обшарпанных и потрепанных временем, затертых тряпками до блеска."
-
-# game/bar.rpy:4
-translate russian act_1_bar_ba3475e6:
-
-    # "В дальнем конце помещения, где-то в темноте стоит старый, но все еще рабочий музыкальный автомат. Он мигает своими уцелевшими лампочками и зовёт опустить в него монетку и насладиться джазом."
-    "В дальнем конце помещения, где-то в темноте стоит старый, но все еще рабочий музыкальный автомат. Он мигает своими уцелевшими лампочками и зовёт опустить в него монетку и насладиться джазом."
-
-# game/bar.rpy:5
-translate russian act_1_bar_ac8d9316:
-
-    # "За барной стойкой стоит полусонный бармен, уже, видимо, по инерции протирающий до блеска и без того чистую и блестящую стойку."
-    "За барной стойкой стоит полусонный бармен, уже, видимо, по инерции протирающий до блеска и без того чистую и блестящую стойку."
-
-# game/bar.rpy:6
-translate russian act_1_bar_d03bba5e:
-
-    # "Рядом висит на подставке старенький телевизор, вещающий что-то о новостях за неделю. За барменом на полках стоят уже открытые и опустошенные наполовину различные напитки."
-    "Рядом висит на подставке старенький телевизор, вещающий что-то о новостях за неделю. За барменом на полках стоят уже открытые и опустошенные наполовину различные напитки."
+# TODO: Translation updated at 2018-08-06 00:02
 
 # game/bar.rpy:7
-translate russian act_1_bar_a8e6173d:
+translate russian act_1_bar_0207a196:
 
-    # "Где-то вдалеке играет тихая и спокойная музыка, явно приглашая гостей задержаться, посидеть и пропустить еще стакашку чего-нибудь крепкого и согревающего."
-    "Где-то вдалеке играет тихая и спокойная музыка, явно приглашая гостей задержаться, посидеть и пропустить еще стакашку чего-нибудь крепкого и согревающего."
+    # "There are staying several round and shabby wooden tables, ragged to shine."
+    "В подвальном помещении стоят несколько круглых деревянных столиков, обшарпанных и потрепанных временем, затертых тряпками до блеска."
+
+# game/bar.rpy:8
+translate russian act_1_bar_6f69d529:
+
+    # "In the far corner, somewhere in the dark an old, but still working jukebox is playing. It flashes with its survived light bulbs and calls to push a small coin into it to enjoy the jazz."
+    "В дальнем конце помещения, где-то в темноте стоит старый, но все еще рабочий музыкальный автомат. Он мигает своими уцелевшими лампочками и зовёт опустить в него монетку и насладиться джазом."
 
 # game/bar.rpy:9
-translate russian act_1_bar_1a8f38de:
+translate russian act_1_bar_36f06a7d:
 
-    # me "{b}Добрый день, мне стакашку тёмного.{/b}"
-    me "{b}Добрый день, мне стакашку тёмного.{/b}"
+    # "A half-asleep bartender stands behind the bar and, apparently, blanches by inertia already clean and shiny stand."
+    "За барной стойкой стоит полусонный бармен, уже, видимо, по инерции протирающий до блеска и без того чистую и блестящую стойку."
 
+# game/bar.rpy:10
+translate russian act_1_bar_b602f964:
+
+    # "Nearby hangs an old tv, telling some news of the week. Behind the bartender, on shelves, there are placed already opened and half emptied different drinks."
+    "Рядом висит на подставке старенький телевизор, вещающий что-то о новостях за неделю. За барменом на полках стоят уже открытые и опустошенные наполовину различные напитки."
 # game/bar.rpy:11
-translate russian act_1_bar_96e53838:
+translate russian act_1_bar_e6090125:
 
-    # "Бармен смотрит на меня исподлобья, затем быстро прячется за стойку. Спустя минуту поднимается уже с большим бокалом, наполненным до краев."
-    "Бармен смотрит на меня исподлобья, затем быстро прячется за стойку. Спустя минуту поднимается уже с большим бокалом, наполненным до краев."
+    # "Somewhere far away plays calm and quiet music, obviously inviting guests to stay, sit down and take one more glass of something strong and warming."
+    "Где-то вдалеке играет тихая и спокойная музыка, явно приглашая гостей задержаться, посидеть и пропустить еще стакашку чего-нибудь крепкого и согревающего."
 
 # game/bar.rpy:13
-translate russian act_1_bar_244ee5cd:
+translate russian act_1_bar_7bc892ed:
 
-    # bartender "{b}С вас 4.50.{/b}"
-    bartender "{b}С вас 4.50.{/b}"
+    # me "{b}Good evening, a glass of dark, please.{/b}"
+    me "{b}Добрый день, мне стакашку тёмного.{/b}"
 
 # game/bar.rpy:15
-translate russian act_1_bar_a008be11:
+translate russian act_1_bar_09896e84:
 
-    # "Я сижу и пробую на вкус содержимое бокала. На первый взгляд, ничего примечательного, однако спустя мгновение по телу разливается тепло."
+    # "The bartender watches at me sullenly, then quickly hides under the rack. A minute later he raises with a big glass, filled up to the edges."
+    "Бармен смотрит на меня исподлобья, затем быстро прячется за стойку. Спустя минуту поднимается уже с большим бокалом, наполненным до краев."
+
+# game/bar.rpy:17
+translate russian act_1_bar_306a6f34:
+
+    # bartender "{b}It’s 4.50{/b}"
+    bartender "{b}С вас 4.50.{/b}"
+
+# game/bar.rpy:19
+translate russian act_1_bar_1a22bb96:
+
+    # "I’m sitting and tasting the contents of the glass. On the first view, nothing remarkable, but after a moment a strong heat is spilling through the body."
     "Я сижу и пробую на вкус содержимое бокала. На первый взгляд, ничего примечательного, однако спустя мгновение по телу разливается тепло."
 
 # game/bar.rpy:16
@@ -66,28 +67,28 @@ translate russian act_1_bar_8534ca42:
     # ". . ."
     ". . ."
 
-# game/bar.rpy:17
-translate russian act_1_bar_7f4f0420:
+# game/bar.rpy:21
+translate russian act_1_bar_93124406:
 
-    # "Я сижу и думаю о чем-то, о чем-то далеком. Вдруг слышу:"
+    # "I’m sitting and thinking about something, something far. Suddenly, I hear:"
     "Я сижу и думаю о чем-то, о чем-то далеком. Вдруг слышу:"
 
-# game/bar.rpy:19
-translate russian act_1_bar_85c4b581:
+# game/bar.rpy:23
+translate russian act_1_bar_7c389cbd:
 
-    # bartender "{b}Ну что, как погодка? Сильный дождь?{/b}"
+    # bartender "{b}So, how’s the weather? Is it raining hard?{/b}"
     bartender "{b}Ну что, как погодка? Сильный дождь?{/b}"
 
-# game/bar.rpy:23
-translate russian is_it_raining_d358395f:
+# game/bar.rpy:27
+translate russian is_it_raining_10c45540:
 
-    # me "{b}Да так, льёт ещё.{/b}"
+    # me "{b}Well, yea, it’s raining hard.{/b}"
     me "{b}Да так, льёт ещё.{/b}"
 
-# game/bar.rpy:24
-translate russian is_it_raining_73a47d99:
+# game/bar.rpy:28
+translate russian is_it_raining_893edba0:
 
-    # bartender "{b}А ведь погода, все-таки, штука странная. Сегодня по прогнозу ни облачка, а на деле…{/b}"
+    # bartender "{b}Heck, the weather is a strange thing. Today the forecast promised neither the clouds here, but in real…{/b}"
     bartender "{b}А ведь погода, все-таки, штука странная. Сегодня по прогнозу ни облачка, а на деле…{/b}"
 
 # game/bar.rpy:26
@@ -96,100 +97,100 @@ translate russian is_it_raining_4613172f:
     # me "{b}. . .{/b}"
     me "{b}. . .{/b}"
 
-# game/bar.rpy:27
-translate russian is_it_raining_3e6b4352:
+# game/bar.rpy:31
+translate russian is_it_raining_0a34e4de:
 
-    # "Бармен посмотрел на меня, будто хотел что-то услышать, однако, так и не получив ответа, быстро отвернулся и стал щёлкать каналы по телевизору."
+    # "The bartender looked at me, waiting for me to answer something. However, he didn’t get any response, quickly turned around and started switching tv channels."
     "Бармен посмотрел на меня, будто хотел что-то услышать, однако, так и не получив ответа, быстро отвернулся и стал щёлкать каналы по телевизору."
 
-# game/bar.rpy:29
-translate russian is_it_raining_0d04beb4:
+# game/bar.rpy:33
+translate russian is_it_raining_3d132d0d:
 
-    # "Прощелкав все каналы и не найдя ничего интересного, бармен снова обратился ко мне:"
+    # "Switched all available tv channels and didn’t find anything interesting, the bartender again contacted me:"
     "Прощелкав все каналы и не найдя ничего интересного, бармен снова обратился ко мне:"
 
-# game/bar.rpy:30
-translate russian is_it_raining_3bfb001d:
+# game/bar.rpy:34
+translate russian is_it_raining_68979e90:
 
-    # bartender "{b}От, слухи ходят, так ходят. Поговаривают, девочку нашли, на путях, всю порезанную, аж жуть… Как вспомнишь, так вздрогнешь, такое зрелище не каждому дано выдержать… Я вот не видел, правда… А ты слыхал?{/b}"
+    # bartender "{b}Look, rumours go, so go. They say, that the girl was found at the railroad, she was totally cut, that’s awkward. As you remember, you shudder, such a spectacle is not given to everyone… Sincerely speaking, I didn’t see it. Did you hear that?{/b}"
     bartender "{b}От, слухи ходят, так ходят. Поговаривают, девочку нашли, на путях, всю порезанную, аж жуть… Как вспомнишь, так вздрогнешь, такое зрелище не каждому дано выдержать… Я вот не видел, правда… А ты слыхал?{/b}"
 
-# game/bar.rpy:31
-translate russian is_it_raining_189ae89e:
+# game/bar.rpy:35
+translate russian is_it_raining_7a0375cc:
 
-    # me "{b}Да нет, впервые слышу. А что ещё говорят?{/b}"
+    # me "{b}Well, nope, I hear this thing the first time. What else do people say?{/b}"
     me "{b}Да нет, впервые слышу. А что ещё говорят?{/b}"
 
-# game/bar.rpy:32
-translate russian is_it_raining_a4dad0e6:
+# game/bar.rpy:36
+translate russian is_it_raining_0243c2bb:
 
-    # bartender "{b}Да вот, убийцу ищут, все никак не найдут. А у нас городок маленький, все знают друг друга в лицо. Значит, этот убийца - один из нас?{/b}"
+    # bartender "{b}As far as I know, they look for the murderer, but they can’t find him. Well, we live in a small town, where everyone knows each other in person. That means this murderer is one of us?{/b}"
     bartender "{b}Да вот, убийцу ищут, все никак не найдут. А у нас городок маленький, все знают друг друга в лицо. Значит, этот убийца - один из нас?{/b}"
 
-# game/bar.rpy:33
-translate russian is_it_raining_5c60ded3:
+# game/bar.rpy:37
+translate russian is_it_raining_c3b3cd59:
 
-    # me "{b}Это точно.{/b}"
+    # me "{b}That’s the point.{/b}"
     me "{b}Это точно.{/b}"
 
-# game/bar.rpy:38
-translate russian act_2_bar_e038e2e0:
+# game/bar.rpy:42
+translate russian act_2_bar_8368ca67:
 
-    # "Я так сижу долго и все думаю, как меня вдруг резко разбудил стук двери."
+    # "So, I was sitting and thinking for a long time, as suddenly I was abruptly woke up by a knock on the door."
     "Я так сижу долго и все думаю, как меня вдруг резко разбудил стук двери."
 
-# game/bar.rpy:39
-translate russian act_2_bar_8199b726:
+# game/bar.rpy:43
+translate russian act_2_bar_e8421ba7:
 
-    # "В бар зашла девушка, вся мокрая, запыхавшаяся от бега и чем-то жутко недовольная."
+    # "The girl entered the bar, she was completely wet, out of breath and terribly dissatisfied with something."
     "В бар зашла девушка, вся мокрая, запыхавшаяся от бега и чем-то жутко недовольная."
 
-# game/bar.rpy:40
-translate russian act_2_bar_d6732962:
+# game/bar.rpy:44
+translate russian act_2_bar_2a26c4bf:
 
-    # "Она быстро подбежала к стойке, вскарабкалась на высокий стул и плюхнулась, вздохнув с облегчением."
+    # "She quickly ran to the rack, climbed on a high chair and flopped on it, sighing with relief."
     "Она быстро подбежала к стойке, вскарабкалась на высокий стул и плюхнулась, вздохнув с облегчением."
 
-# game/bar.rpy:41
-translate russian act_2_bar_72282468:
+# game/bar.rpy:45
+translate russian act_2_bar_10d4619b:
 
-    # "Девушка была одета в черное пальто, под которым виднелись красная юбка-шотландка и белая рубашка, промокшая насквозь и прилипшая к телу."
+    # "The girl was wearing a black coat, under which a red Scottish skirt and white shirt were seen, a shirt was soaked through and adhered to the body."
     "Девушка была одета в черное пальто, под которым виднелись красная юбка-шотландка и белая рубашка, промокшая насквозь и прилипшая к телу."
 
-# game/bar.rpy:42
-translate russian act_2_bar_42ebf668:
+# game/bar.rpy:46
+translate russian act_2_bar_28ab7b34:
 
-    # "На ногах у девушки были уже посеревшие от дождя и грязи некогда белые гольфы и черные туфли, похожие на школьные ботиночки первоклашек."
+    # "At the feet of the girl were already greyed cause of rain and dirt somewhen white knee-highs and black shoes looked similar to school boots of first-formers."
     "На ногах у девушки были уже посеревшие от дождя и грязи некогда белые гольфы и черные туфли, похожие на школьные ботиночки первоклашек."
 
-# game/bar.rpy:44
-translate russian act_2_bar_9c7e10cf:
+# game/bar.rpy:48
+translate russian act_2_bar_01df6640:
 
-    # "На соседний стул незнакомка поставила свой маленький портфельчик, с которого ручьями стекала вода, а затем навесила на него своё пальто, которое было бы неплохо выжать."
+    # "On the next chair, stranger put her small bag, from which water streamed down, and then hang on it her coat, which would be nice to be squeezed."
     "На соседний стул незнакомка поставила свой маленький портфельчик, с которого ручьями стекала вода, а затем навесила на него своё пальто, которое было бы неплохо выжать."
 
-# game/bar.rpy:45
-translate russian act_2_bar_08563170:
+# game/bar.rpy:49
+translate russian act_2_bar_47398d73:
 
-    # "Посидев с минуту, девушка наконец обратилась к бармену:"
+    # "After sitting for a minute, the girl finally applied to the bartender:"
     "Посидев с минуту, девушка наконец обратилась к бармену:"
 
-# game/bar.rpy:50
-translate russian act_2_bar_7a2c98c4:
+# game/bar.rpy:54
+translate russian act_2_bar_efcf4a20:
 
-    # kira "{b}Мне бы чаю горячего.{/b}"
+    # kira "{b}Would you give me a cup of hot tea?{/b}"
     kira "{b}Мне бы чаю горячего.{/b}"
 
-# game/bar.rpy:52
-translate russian act_2_bar_1cd86744:
+# game/bar.rpy:56
+translate russian act_2_bar_76c34949:
 
-    # "Бармен подошел и без слов налил чашку горячего чая, приложив рядом полагающуюся бесплатную маленькую шоколадку."
+    # "The bartender came to her and silently poured a cup of hot tea and put obligatory free small chocolate bar near the cup."
     "Бармен подошел и без слов налил чашку горячего чая, приложив рядом полагающуюся бесплатную маленькую шоколадку."
 
-# game/bar.rpy:53
-translate russian act_2_bar_8aecb99c:
+# game/bar.rpy:57
+translate russian act_2_bar_10979f56:
 
-    # "Девушка мигом отпила горячий напиток, поставила кружку и прикрыла глаза, явно о чем-то думая."
+    # "The girl instantly took a hot drink, put a cup and closed eyes, thinking about something."
     "Девушка мигом отпила горячий напиток, поставила кружку и прикрыла глаза, явно о чем-то думая."
 
 # game/bar.rpy:54
@@ -198,364 +199,370 @@ translate russian act_2_bar_8534ca42:
     # ". . ."
     ". . ."
 
-# game/bar.rpy:55
-translate russian act_2_bar_dd7f086c:
+# game/bar.rpy:59
+translate russian act_2_bar_a1b1054b:
 
-    # "Так мы сидели около получаса. Наконец она открыла глаза, повернула ко мне голову и сказала:"
+    # "We were sitting for about half an hour this way. Suddenly she opened her eyes, turned her head to me and said:"
     "Так мы сидели около получаса. Наконец она открыла глаза, повернула ко мне голову и сказала:"
 
-# game/bar.rpy:57
-translate russian act_2_bar_194de288:
+# game/bar.rpy:61
+translate russian act_2_bar_95d618e3:
 
-    # kira "{b}Привет! Ну и погодка сегодня!{/b}"
+    # kira "{b}Oh, hi! What a strange weather today!{/b}"
     kira "{b}Привет! Ну и погодка сегодня!{/b}"
 
-# game/bar.rpy:59
-translate russian act_2_bar_1a5de892:
+# game/bar.rpy:63
+translate russian act_2_bar_0a145602:
 
-    # "Потом обвела меня взглядом и неожиданно спросила:"
+    # "Then she looked me around and asked unexpectedly:"
     "Потом обвела меня взглядом и неожиданно спросила:"
 
-# game/bar.rpy:61
-translate russian act_2_bar_665f4304:
+# game/bar.rpy:65
+translate russian act_2_bar_e9133b9e:
 
-    # kira "{b}Неужели за мной так интересно наблюдать?{/b}"
+    # kira "{b}Is it such interesting to watch me?{/b}"
     kira "{b}Неужели за мной так интересно наблюдать?{/b}"
 
-# game/bar.rpy:63
-translate russian act_2_bar_65dc27e1:
+# game/bar.rpy:67
+translate russian act_2_bar_262af892:
 
-    # "Я поперхнулся от удивления."
+    # "I choked with surprise."
     "Я поперхнулся от удивления."
 
-# game/bar.rpy:64
-translate russian act_2_bar_e424ad18:
+# game/bar.rpy:68
+translate russian act_2_bar_a5f2e778:
 
-    # "Только сейчас заметил, что все это время пристально наблюдал за ней."
+    # "Only now I noticed that all this time I stared at her."
     "Только сейчас заметил, что все это время пристально наблюдал за ней."
 
-# game/bar.rpy:65
-translate russian act_2_bar_6bb2c739:
+# game/bar.rpy:69
+translate russian act_2_bar_f2abecd5:
 
-    # "Мне стало слегка неловко. Я было уже начал отворачиваться в другую сторону, как услышал:"
+    # "I felt slightly uncomfortable. I was already turning away the other way, as I heard:"
     "Мне стало слегка неловко. Я было уже начал отворачиваться в другую сторону, как услышал:"
 
-# game/bar.rpy:67
-translate russian act_2_bar_3206b791:
+# game/bar.rpy:71
+translate russian act_2_bar_20511717:
 
-    # kira "{b}А ведь это местечко ничего такое, интересненькое. Кстати, меня Кира зовут.{/b}"
+    # kira "{b}And this place seems to be soooo… interesting. By the way, my name is Kira.{/b}"
     kira "{b}А ведь это местечко ничего такое, интересненькое. Кстати, меня Кира зовут.{/b}"
 
-# game/bar.rpy:79
-translate russian act_2_bar_9d5bb5a9:
+# game/bar.rpy:83
+translate russian act_2_bar_a469c046:
 
-    # kira "{b}Приятно познакомиться!{/b}"
+    # "I introduced myself."
+    "Я представился."
+
+# game/bar.rpy:85
+translate russian act_2_bar_230f19ae:
+
+    # kira "{b}Nice to meet you!{/b}"
     kira "{b}Приятно познакомиться!{/b}"
 
-# game/bar.rpy:81
-translate russian act_2_bar_5ff0ca4f:
+# game/bar.rpy:87
+translate russian act_2_bar_ba402689:
 
-    # me "{b}Взаимно.{/b}"
+    # me "{b}And you.{/b}"
     me "{b}Взаимно.{/b}"
 
-# game/bar.rpy:83
-translate russian act_2_bar_6a5e84c2:
+# game/bar.rpy:89
+translate russian act_2_bar_8a03b85b:
 
-    # kira "{b}Как жизнь?{/b}"
+    # kira "{b}How do you do?{/b}"
     kira "{b}Как жизнь?{/b}"
 
-# game/bar.rpy:87
-translate russian how_do_you_do_e33348a2:
+# game/bar.rpy:93
+translate russian how_do_you_do_738c32bc:
 
-    # me "{b}Норм.{/b}"
+    # me "{b}Fine.{/b}"
     me "{b}Норм.{/b}"
 
-# game/bar.rpy:88
-translate russian how_do_you_do_84cc3bea:
+# game/bar.rpy:94
+translate russian how_do_you_do_de8cacfc:
 
-    # kira "{b}Ну, норм, так норм, чего сказать тут ещё?{/b}"
+    # kira "{b}Well, fine means fine, what else can I say?{/b}"
     kira "{b}Ну, норм, так норм, чего сказать тут ещё?{/b}"
 
-# game/bar.rpy:91
-translate russian how_do_you_do_d55bc8e2:
+# game/bar.rpy:97
+translate russian how_do_you_do_501f3a60:
 
-    # me "{b}Да ничего, перебиваюсь потихоньку.{/b}"
+    # me "{b}Well, I’m not bad, just trying to live here.{/b}"
     me "{b}Да ничего, перебиваюсь потихоньку.{/b}"
 
-# game/bar.rpy:92
-translate russian how_do_you_do_c63c8793:
+# game/bar.rpy:98
+translate russian how_do_you_do_d2ea6199:
 
-    # kira "{b}Хехе, неплохо, неплохо, жизнь медленно течет в этом городке, и мы стараемся не отставать от неё.{/b}"
+    # kira "{b}Hehe, not bad, not bad, life just slowly flows in this town, and we’re trying not to get behind it.{/b}"
     kira "{b}Хехе, неплохо, неплохо, жизнь медленно течет в этом городке, и мы стараемся не отставать от неё.{/b}"
 
-# game/bar.rpy:95
-translate russian how_do_you_do_f912dac1:
+# game/bar.rpy:101
+translate russian how_do_you_do_29ee8e1f:
 
-    # me "{b}Все плохо.{/b}"
+    # me "{b}It can’t be worse.{/b}"
     me "{b}Все плохо.{/b}"
 
-# game/bar.rpy:96
-translate russian how_do_you_do_77b98322:
+# game/bar.rpy:102
+translate russian how_do_you_do_1652c11d:
 
-    # kira "{b}Нууууу, всегда в самой плохой ситуации надо находить что-то хорошее, не стоит так себя угнетать.{/b}"
+    # kira "{b}Well, it worth to look for something good in every terrible situation, you don’t have to depress yourself.{/b}"
     kira "{b}Нууууу, всегда в самой плохой ситуации надо находить что-то хорошее, не стоит так себя угнетать.{/b}"
 
-# game/bar.rpy:98
-translate russian how_do_you_do_c938da9e:
+# game/bar.rpy:104
+translate russian how_do_you_do_fa0f23a8:
 
-    # "Кира отхлебнула еще глоток чая и распаковала шоколадку."
+    # "Kira drank one more sip of tea and unpacked a small chocolate bar."
     "Кира отхлебнула еще глоток чая и распаковала шоколадку."
 
-# game/bar.rpy:99
-translate russian how_do_you_do_4d258e3f:
+# game/bar.rpy:105
+translate russian how_do_you_do_acef427e:
 
-    # "Достав из кармана юбки маленький перочинный ножик, она ловко разделила сладкое угощение на две части."
+    # "She got from skirts’ pocket small Swedish pen knife and skillfully shared sweet treat into two pieces."
     "Достав из кармана юбки маленький перочинный ножик, она ловко разделила сладкое угощение на две части."
 
-# game/bar.rpy:101
-translate russian how_do_you_do_db79120f:
+# game/bar.rpy:107
+translate russian how_do_you_do_8d9c37a6:
 
-    # kira "{b}Угощайся!{/b}"
+    # kira "{b}Treat yourself!{/b}"
     kira "{b}Угощайся!{/b}"
 
-# game/bar.rpy:103
-translate russian how_do_you_do_f257eabd:
+# game/bar.rpy:109
+translate russian how_do_you_do_8eb5bf42:
 
-    # "Мои глаза пристально наблюдали за перочинным ножиком. Он такой маленький и удобный, спорю на что угодно, его можно везде запросто пронести, настолько он незаметен."
+    # "My eyes stared at her penknife. It’s so small and comfortable, I bet on anything, it can be carried everywhere without fail, so it is invisible."
     "Мои глаза пристально наблюдали за перочинным ножиком. Он такой маленький и удобный, спорю на что угодно, его можно везде запросто пронести, настолько он незаметен."
 
-# game/bar.rpy:104
-translate russian how_do_you_do_c504b603:
+# game/bar.rpy:110
+translate russian how_do_you_do_e4f9a4d4:
 
-    # "Кира спрятала свой ножичек в карман, а я машинально, глядя на нее, засунул свою руку в карман брюк."
+    # "Kira hid her small knife in pocket, and I mechanically, looking at her, shove hand in the pants pocket."
     "Кира спрятала свой ножичек в карман, а я машинально, глядя на нее, засунул свою руку в карман брюк."
 
-# game/bar.rpy:105
-translate russian how_do_you_do_fe196dc9:
+# game/bar.rpy:111
+translate russian how_do_you_do_707c44c9:
 
-    # "Нащупываю что-то холодное, металлическое. Неужели тоже ножик?"
+    # "I feel something cold and metallic. Is it really also a knife?"
     "Нащупываю что-то холодное, металлическое. Неужели тоже ножик?"
 
-# game/bar.rpy:106
-translate russian how_do_you_do_ff1152de:
+# game/bar.rpy:112
+translate russian how_do_you_do_7658c650:
 
-    # "Это нечто было настолько ржавым, скользким и неприятным, что я немедленно одернул руку и положил ее на барную стойку."
+    # "It was so rusty, slippery and unpleasant, that I instantly pulled my hand and put in on the bar counter."
     "Это нечто было настолько ржавым, скользким и неприятным, что я немедленно одернул руку и положил ее на барную стойку."
 
-# game/bar.rpy:107
-translate russian how_do_you_do_ce0330c2:
+# game/bar.rpy:113
+translate russian how_do_you_do_e578e4be:
 
-    # "На лбу проступил пот. Странно, что это со мной? {b}Что в кармане?{/b}"
+    # "My forehead just sweated. It’s strange, what’s wrong with me? {b} What’s in the pocket?{/b}"
     "На лбу проступил пот. Странно, что это со мной? {b}Что в кармане?{/b}"
 
-# game/bar.rpy:109
-translate russian how_do_you_do_fbd16653:
+# game/bar.rpy:115
+translate russian how_do_you_do_efeca447:
 
-    # "От Киры это не укрылось."
+    # "It did not hide from Kira."
     "От Киры это не укрылось."
 
-# game/bar.rpy:110
-translate russian how_do_you_do_68062fbf:
+# game/bar.rpy:116
+translate russian how_do_you_do_bb9434ac:
 
-    # "Она быстро обвела меня взглядом и о чем-то призадумалась."
+    # "She quickly looked me around again and thought about something."
     "Она быстро обвела меня взглядом и о чем-то призадумалась."
 
-# game/bar.rpy:111
-translate russian how_do_you_do_9cf010ec:
+# game/bar.rpy:117
+translate russian how_do_you_do_0140bd4b:
 
-    # "Видимо, решив немного меня отвлечь и заполнить неловкое молчание, она начала говорить:"
+    # "Apparently, having decided to distract me a little and fill an embarrassing silence, she began to talk:"
     "Видимо, решив немного меня отвлечь и заполнить неловкое молчание, она начала говорить:"
 
-# game/bar.rpy:113
-translate russian how_do_you_do_dcb5ffb8:
+# game/bar.rpy:119
+translate russian how_do_you_do_b1d3da8f:
 
-    # kira "{b}Ух, ну и железка у вас, такая шумная, такая громкая!{/b}"
+    # kira "{b}Uh, well, your rail is extremely noisy and super loud!{/b}"
     kira "{b}Ух, ну и железка у вас, такая шумная, такая громкая!{/b}"
 
-# game/bar.rpy:115
-translate russian how_do_you_do_69940246:
+# game/bar.rpy:121
+translate russian how_do_you_do_4d913a4a:
 
-    # "Я прислушался к шуму снаружи и услышал постукивание колес электропоезда и скрип старых составов на железной дороге, что неподалёку."
+    # "I listened to the noise outside and heard the tapping of the electric train's wheels and the creaking of old trains on the railway which is nearby."
     "Я прислушался к шуму снаружи и услышал постукивание колес электропоезда и скрип старых составов на железной дороге, что неподалёку."
 
-# game/bar.rpy:117
-translate russian how_do_you_do_78d39f6f:
+# game/bar.rpy:123
+translate russian how_do_you_do_2d90742a:
 
-    # me "{b}Ну да, есть такое. Вообще, железная дорога - это единственное место, которое хоть чем-то интересно в этом старом скучном городе.{/b}"
+    # me "{b}Well, yes, there is. In general, the railway is the only place, which is at least something interesting in this old boring town.{/b}"
     me "{b}Ну да, есть такое. Вообще, железная дорога - это единственное место, которое хоть чем-то интересно в этом старом скучном городе.{/b}"
 
-# game/bar.rpy:119
-translate russian how_do_you_do_50481577:
+# game/bar.rpy:125
+translate russian how_do_you_do_8cf536b7:
 
-    # kira "{b}Хм, я уверена, что есть ещё замечательные места! Вот, когда бежала мимо, краем глаза заприметила парк с фонтаном. Надо бы наведаться туда, когда дождь кончится.{/b}"
+    # kira "{b}Hey, I’m pretty sure, that there are lots of remarkable places! Here, when I ran past old square, I noticed by the eye park with a fountain. I’m thinking about visiting that place when the rain stops.{/b}"
     kira "{b}Хм, я уверена, что есть ещё замечательные места! Вот, когда бежала мимо, краем глаза заприметила парк с фонтаном. Надо бы наведаться туда, когда дождь кончится.{/b}"
 
-# game/bar.rpy:121
-translate russian how_do_you_do_d8e3873b:
+# game/bar.rpy:127
+translate russian how_do_you_do_8d700534:
 
-    # "{i}Меня резко забила дрожь. В голове всплыли образы старого леса, заросших тропинок, старого фонтана, который едва-едва выпускает струйки мутно-зеленой вонючей воды, маленькая девочка, бегущая домой по парку наперерез.{/i}"
-    "{i}Меня резко забила дрожь. В голове всплыли образы старого леса, заросших тропинок, старого фонтана, который едва-едва выпускает струйки мутно-зеленой вонючей воды, маленькая девочка, бегущая домой по парку наперерез.{/i}"
-
-# game/bar.rpy:122
-translate russian how_do_you_do_be1cc656:
-
-    # "{i}Я сижу на лавочке и думаю о чем-то… Неважно, о чем. {/i}"
-    "{i}Я сижу на лавочке и думаю о чем-то… Неважно, о чем. {/i}"
-
-# game/bar.rpy:124
-translate russian how_do_you_do_dc55afeb:
-
-    # kira "{b}Эй, ты окей?{/b}"
-    kira "{b}Эй, ты окей?{/b}"
-
-# game/bar.rpy:126
-translate russian how_do_you_do_36e32f27:
-
-    # me "{b}Да, все в порядке, просто задумался.{/b}"
-    me "{b}Да, все в порядке, просто задумался.{/b}"
+    # "{i}I sharply scored a shiver. Some images surfaced in my head, there were images of the ugly old forest, overgrown paths, old fountain, which hardly released jets of dark-green stinking water, a small girl, running home across the park.{/i}"
+   "{i}Меня резко забила дрожь. В голове всплыли образы старого леса, заросших тропинок, старого фонтана, который едва-едва выпускает струйки мутно-зеленой вонючей воды, маленькая девочка, бегущая домой по парку наперерез.{/i}"
 
 # game/bar.rpy:128
-translate russian how_do_you_do_c35c9149:
+translate russian how_do_you_do_2b438869:
 
-    # kira "{b}Ну, тогда ладно. Да и вообще, не такой уже и скучный город, я уверена, в нем есть жизнь!{/b}"
-    kira "{b}Ну, тогда ладно. Да и вообще, не такой уже и скучный город, я уверена, в нем есть жизнь!{/b}"
+    # "{i}I’m sitting on the bench and thinking about something…No matter, about what.{/i}"
+    "{i}Я сижу на лавочке и думаю о чем-то… Неважно, о чем. {/i}"
 
 # game/bar.rpy:130
-translate russian how_do_you_do_8093ffaf:
+translate russian how_do_you_do_bf7a9b50:
 
-    # "Ее экспрессия начинает мне надоедать."
+    # kira "{b}Hey! Are you alright?{/b}"
+    kira "{b}Эй, ты окей?{/b}"
+
+# game/bar.rpy:132
+translate russian how_do_you_do_523d6935:
+
+    # me "{b}Yeah, I’m fine, just thinking.{/b}"
+    me "{b}Да, все в порядке, просто задумался.{/b}"
+
+# game/bar.rpy:134
+translate russian how_do_you_do_057ff4a2:
+
+    # kira "{b}Well, okay. And in general, this town is not so boring, as you think, I’m sure, it has a life!{/b}"
+    kira "{b}Ну, тогда ладно. Да и вообще, не такой уже и скучный город, я уверена, в нем есть жизнь!{/b}"
+
+# game/bar.rpy:136
+translate russian how_do_you_do_56c72bd1:
+
+    # "Her expression started to annoy me."
     "Ее экспрессия начинает мне надоедать."
 
-# game/bar.rpy:131
-translate russian how_do_you_do_ba75e687:
+# game/bar.rpy:137
+translate russian how_do_you_do_f9d367a2:
 
-    # "Моя новая собеседница открыла свежий номер газеты и, уставившись куда-то на странице, спросила:"
+    # "My new companion opened a recent newspaper and being stared somewhere on the page, asked me:"
     "Моя новая собеседница открыла свежий номер газеты и, уставившись куда-то на странице, спросила:"
 
-# game/bar.rpy:133
-translate russian how_do_you_do_0f5ccc93:
+# game/bar.rpy:139
+translate russian how_do_you_do_0d5a249c:
 
-    # kira "{b}Я в этом городе совсем недавно. Как жизнь, что в городе происходит?{/b}"
+    # kira "{b}I came to this town quite recently. How is life, what is happening in the town?{/b}"
     kira "{b}Я в этом городе совсем недавно. Как жизнь, что в городе происходит?{/b}"
 
-# game/bar.rpy:135
-translate russian how_do_you_do_20bdbc00:
+# game/bar.rpy:141
+translate russian how_do_you_do_13cd6b9e:
 
-    # me "{b}Да так, ничего особенного, городок маленький, ничего и не происходит.{/b}"
+    # me "{b}Well, nothing special, our town is small, and nothing happens.{/b}"
     me "{b}Да так, ничего особенного, городок маленький, ничего и не происходит.{/b}"
 
-# game/bar.rpy:137
-translate russian how_do_you_do_3687a6c4:
+# game/bar.rpy:143
+translate russian how_do_you_do_c8251503:
 
-    # kira "{b}А разве ты не читал про убийство некой девочки на железнодорожных путях?{/b}"
+    # kira "{b}Haven’t you read about the murder of a girl on the railway tracks?{/b}"
     kira "{b}А разве ты не читал про убийство некой девочки на железнодорожных путях?{/b}"
 
-# game/bar.rpy:139
-translate russian how_do_you_do_6bf614fd:
+# game/bar.rpy:145
+translate russian how_do_you_do_3d4817c9:
 
-    # me "{b}Да и там ничего интересного, ну, подумаешь, подкинули труп на пути.{/b}"
+    # me "{b}And there is nothing interesting, well, you think, somebody threw the body on the way.{/b}"
     me "{b}Да и там ничего интересного, ну, подумаешь, подкинули труп на пути.{/b}"
 
-# game/bar.rpy:141
-translate russian how_do_you_do_9bb42edc:
+# game/bar.rpy:147
+translate russian how_do_you_do_ad2e09e5:
 
-    # "{i}Никаких газет, я, разумеется, не читал, лишь так, озвучил слухи, чтобы она от меня отстала.{/i}"
+    # "{i}I didn’t read any newspapers, of course, so I just announced some rumours that she would leave me alone.{/i}"
     "{i}Никаких газет, я, разумеется, не читал, лишь так, озвучил слухи, чтобы она от меня отстала.{/i}"
 
-# game/bar.rpy:143
-translate russian how_do_you_do_68a1c4fc:
+# game/bar.rpy:149
+translate russian how_do_you_do_55a3283a:
 
-    # kira "{b}Ух ты, ничего себе, а ведь такое не каждый день происходит! И, что, как в настоящих детективах, и свидетелей не нашлось?{/b}"
+    # kira "{b}Wow, wow, but this doesn’t happen every day! And, as in real detectives, there were no witnesses?{/b}"
     kira "{b}Ух ты, ничего себе, а ведь такое не каждый день происходит! И, что, как в настоящих детективах, и свидетелей не нашлось?{/b}"
 
-# game/bar.rpy:145
-translate russian how_do_you_do_869de690:
+# game/bar.rpy:151
+translate russian how_do_you_do_475eefa9:
 
-    # me "{b}Да что-то типа того.{/b}"
+    # me "{b}It seems to be something like that.{/b}"
     me "{b}Да что-то типа того.{/b}"
 
-# game/bar.rpy:147
-translate russian how_do_you_do_6e4e8ddb:
+# game/bar.rpy:153
+translate russian how_do_you_do_8091db7c:
 
-    # kira "{b}И убийцу уже нашли?{/b}"
+    # kira "{b}Is the murderer already found?{/b}"
     kira "{b}И убийцу уже нашли?{/b}"
 
-# game/bar.rpy:149
-translate russian how_do_you_do_1493eac0:
+# game/bar.rpy:155
+translate russian how_do_you_do_a9f6e73b:
 
-    # me "{b}Да нет ещё, если бы нашли, то написали бы.{/b}"
+    # me "{b}Definitely no, if police had found that guy, they would have written about this in the newspaper.{/b}"
     me "{b}Да нет ещё, если бы нашли, то написали бы.{/b}"
 
-# game/bar.rpy:151
-translate russian how_do_you_do_db779737:
+# game/bar.rpy:157
+translate russian how_do_you_do_9f713854:
 
-    # kira "{b}О боже, зря ты это сказал, теперь мне страшно выходить на улицу!{/b}"
+    # kira "{b}Oh no, you shouldn’t have said it, now I'm afraid to go out!{/b}"
     kira "{b}О боже, зря ты это сказал, теперь мне страшно выходить на улицу!{/b}"
 
-# game/bar.rpy:153
-translate russian how_do_you_do_9286f05d:
+# game/bar.rpy:159
+translate russian how_do_you_do_836f5e12:
 
-    # "Девушка была экспрессивная, много и быстро болтала и ещё активно жестикулировала. Ну и болтунья!"
+    # "The girl was expressive, talked a lot and quickly and gesticulated actively. What a chatterbox!"
     "Девушка была экспрессивная, много и быстро болтала и ещё активно жестикулировала. Ну и болтунья!"
 
-# game/bar.rpy:155
-translate russian how_do_you_do_036b0e8f:
+# game/bar.rpy:161
+translate russian how_do_you_do_f2131846:
 
-    # kira "{b}А ещё что расскажешь? Мне так интересно!{/b}"
+    # kira "{b}What else can you tell me, I am so interested!{/b}"
     kira "{b}А ещё что расскажешь? Мне так интересно!{/b}"
 
-# game/bar.rpy:157
-translate russian how_do_you_do_c7f705e0:
+# game/bar.rpy:163
+translate russian how_do_you_do_99885c43:
 
-    # me "{b}… Ээээ, а что?{/b}"
+    # me "{b}… Emmm, what?{/b}"
     me "{b}… Ээээ, а что?{/b}"
 
-# game/bar.rpy:159
-translate russian how_do_you_do_8f5d16f5:
+# game/bar.rpy:165
+translate russian how_do_you_do_56ea8791:
 
-    # kira "{b}А как девочку зовут?{/b}"
+    # kira "{b}What’s her name?{/b}"
     kira "{b}А как девочку зовут?{/b}"
 
-# game/bar.rpy:161
-translate russian how_do_you_do_c37713ff:
-
-    # me "{b}Не знаю.{/b}"
-    me "{b}Не знаю.{/b}"
-
-# game/bar.rpy:163
-translate russian how_do_you_do_f73a07dc:
-
-    # kira "{b}О, а она школьница была, знаешь?{/b}"
-    kira "{b}О, а она школьница была, знаешь?{/b}"
-
-# game/bar.rpy:165
-translate russian how_do_you_do_c37713ff_1:
-
-    # me "{b}Не знаю.{/b}"
-    me "{b}Не знаю.{/b}"
-
 # game/bar.rpy:167
-translate russian how_do_you_do_9e0ef81d:
+translate russian how_do_you_do_4a60976e:
 
-    # kira "{b}А в каком классе она учится? А сколько ей лет?{/b}"
-    kira "{b}А в каком классе она учится? А сколько ей лет?{/b}"
+    # me "{b}I don’t know.{/b}"
+    me "{b}Не знаю.{/b}"
 
 # game/bar.rpy:169
-translate russian how_do_you_do_6ecd187d:
+translate russian how_do_you_do_ed5343c3:
 
-    # me "{b}Да не знаю я!{/b}"
-    me "{b}Да не знаю я!{/b}"
+    # kira "{b}Oh, don’t you know, whether she was a pupil or not?{/b}"
+    kira "{b}О, а она школьница была, знаешь?{/b}"
 
 # game/bar.rpy:171
-translate russian how_do_you_do_9ac7f22c:
+translate russian how_do_you_do_9818054f:
 
-    # kira "{b}Хм, ну и ладно. Больно и хотелось узнать.{/b}"
-    kira "{b}Хм, ну и ладно. Больно и хотелось узнать.{/b}"
+    # me "{b}I don’t know!{/b}"
+    me "{b}Не знаю!{/b}"
 
 # game/bar.rpy:173
-translate russian how_do_you_do_323da7b9:
+translate russian how_do_you_do_a8dedf79:
 
-    # "Кира демонстративно отвернулась, надула щеки, как у хомяка, и стала недовольно смотреть в потолок."
+    # kira "{b}And in which class was she studying? How old was she?{/b}"
+    kira "{b}А в каком классе она учится? А сколько ей лет?{/b}"
+
+# game/bar.rpy:175
+translate russian how_do_you_do_d605fa3a:
+
+    # me "{b}The hell I know!{/b}"
+    me "{b}Да не знаю я!{/b}"
+
+# game/bar.rpy:177
+translate russian how_do_you_do_bf4deb73:
+
+    # kira "{b}Hmm, well, okay. I wouldn’t like to know too much, anyway.{/b}"
+    kira "{b}Хм, ну и ладно. Больно и хотелось узнать.{/b}"
+
+# game/bar.rpy:179
+translate russian how_do_you_do_b7be48ad:
+
+    # "Kira defiantly turned away, puffed out her cheeks like a hamster, and began to look at the ceiling with displeasure."
     "Кира демонстративно отвернулась, надула щеки, как у хомяка, и стала недовольно смотреть в потолок."
 
 # game/bar.rpy:175
@@ -564,28 +571,28 @@ translate russian how_do_you_do_7a7ee474:
     # "{i}. . .{/i}"
     "{i}. . .{/i}"
 
-# game/bar.rpy:176
-translate russian how_do_you_do_fc24be54:
+# game/bar.rpy:182
+translate russian how_do_you_do_26f50e1d:
 
-    # "{i}...Девочка подбежала к фонтану и сбавила темп. Дальше она просто шла, восстанавливая дыхание.{/i}"
+    # "{i}...The girl ran to the fountain and lowered tempo. Then she simply walked, restoring breathing.{/i}"
     "{i}...Девочка подбежала к фонтану и сбавила темп. Дальше она просто шла, восстанавливая дыхание.{/i}"
 
-# game/bar.rpy:177
-translate russian how_do_you_do_cbc57c5a:
+# game/bar.rpy:183
+translate russian how_do_you_do_27e682a7:
 
-    # "{i}По щекам текут слезы, брови нахмурены, губы сжаты, щеки надуты и ручки сжаты в кулачки, а за спиной новый красный рюкзачок, почему-то старательно вывалянный в грязи.{/i}"
+    # "{i}Tears are flowing down her cheeks, her brows have frowned, his lips are compressed, her cheeks are inflated and her hands are clenched into fists, and behind her back is a new red rucksack, for some reason diligently piled in the mud.{/i}"
     "{i}По щекам текут слезы, брови нахмурены, губы сжаты, щеки надуты и ручки сжаты в кулачки, а за спиной новый красный рюкзачок, почему-то старательно вывалянный в грязи.{/i}"
 
-# game/bar.rpy:178
-translate russian how_do_you_do_37eb1de7:
+# game/bar.rpy:184
+translate russian how_do_you_do_1ae90fcd:
 
-    # "{i}Теперь я понимаю, почему она шла недовольная...{/i}"
+    # "{i}Now I see, why she was disappointed…{/i}"
     "{i}Теперь я понимаю, почему она шла недовольная...{/i}"
 
-# game/bar.rpy:180
-translate russian how_do_you_do_72919c7f:
+# game/bar.rpy:186
+translate russian how_do_you_do_4b6925f6:
 
-    # kira "{b}А вот представляешь, кого я сегодня увидела! Вашего мэра! Как мне известно, он личность скрытая, из дому не выходит почти. А сегодня вот взял и вышел. Раздал множество интервью, пообщался с народом…{/b}"
+    # kira "{b}Can you imagine, whom did I meet today? Your mayor! As I know, he is a hidden person, he does not get out almost from home. And today he took it and went out. He gave a lot of interviews, talked with the people ...{/b}"
     kira "{b}А вот представляешь, кого я сегодня увидела! Вашего мэра! Как мне известно, он личность скрытая, из дому не выходит почти. А сегодня вот взял и вышел. Раздал множество интервью, пообщался с народом…{/b}"
 
 # game/bar.rpy:181
@@ -594,10 +601,10 @@ translate russian how_do_you_do_989c1bcb:
     # kira "{b}...{/b}"
     kira "{b}...{/b}"
 
-# game/bar.rpy:183
-translate russian how_do_you_do_d225ca5e:
+# game/bar.rpy:189
+translate russian how_do_you_do_d925552c:
 
-    # "Я стал потихоньку зевать, уставая от ее болтовни, и засунул руки в карманы, чтобы не завалиться в сон."
+    # "I began to yawn, tired of her chatter, and put my hands in my pockets, so as not to fall asleep."
     "Я стал потихоньку зевать, уставая от ее болтовни, и засунул руки в карманы, чтобы не завалиться в сон."
 
 # game/bar.rpy:185
@@ -606,10 +613,10 @@ translate russian how_do_you_do_989c1bcb_1:
     # kira "{b}...{/b}"
     kira "{b}...{/b}"
 
-# game/bar.rpy:186
-translate russian how_do_you_do_157a39f7:
+# game/bar.rpy:192
+translate russian how_do_you_do_a79bc072:
 
-    # kira "{b}… ведь полиция обязана искать преступника, а не шастать по домам и расспрашивать, у кого какие планы…{/b}"
+    # kira "{b}… because the police must look for a criminal, but not to look through their homes and ask who has any plans…{/b}"
     kira "{b}… ведь полиция обязана искать преступника, а не шастать по домам и расспрашивать, у кого какие планы…{/b}"
 
 # game/bar.rpy:187
@@ -618,10 +625,10 @@ translate russian how_do_you_do_989c1bcb_2:
     # kira "{b}...{/b}"
     kira "{b}...{/b}"
 
-# game/bar.rpy:189
-translate russian how_do_you_do_15f0f9fe:
+# game/bar.rpy:195
+translate russian how_do_you_do_cc6b1095:
 
-    # "До меня доходили только обрывки ее фраз, я уже давно перестал слушать и воспринимать ее монолог."
+    # "Only snatches of her phrases reached me, I had long ceased to listen and perceive her monologue."
     "До меня доходили только обрывки ее фраз, я уже давно перестал слушать и воспринимать ее монолог."
 
 # game/bar.rpy:191
@@ -630,10 +637,10 @@ translate russian how_do_you_do_989c1bcb_3:
     # kira "{b}...{/b}"
     kira "{b}...{/b}"
 
-# game/bar.rpy:192
-translate russian how_do_you_do_e918c9e9:
+# game/bar.rpy:198
+translate russian how_do_you_do_4393e3bb:
 
-    # kira "{b}…а ведь налоги, которые вы платите, уходят им на оборудование, а они и не пользуются, все ходят вручную...{/b}"
+    # kira "{b}… but the taxes that you pay go to them for equipment, and they don’t use it, still walking by hand...{/b}"
     kira "{b}…а ведь налоги, которые вы платите, уходят им на оборудование, а они и не пользуются, все ходят вручную...{/b}"
 
 # game/bar.rpy:193
@@ -642,10 +649,10 @@ translate russian how_do_you_do_989c1bcb_4:
     # kira "{b}...{/b}"
     kira "{b}...{/b}"
 
-# game/bar.rpy:194
-translate russian how_do_you_do_1d5caf06:
+# game/bar.rpy:200
+translate russian how_do_you_do_f853e390:
 
-    # kira "{b}…а у одного из них есть забавный песель по кличке Чаппи, хороший сосед, однако…{/b}"
+    # kira "{b}… and one of them has a funny doggie called Chappi, he’s a good neighbour, however…{/b}"
     kira "{b}…а у одного из них есть забавный песель по кличке Чаппи, хороший сосед, однако…{/b}"
 
 # game/bar.rpy:195
@@ -653,919 +660,12 @@ translate russian how_do_you_do_989c1bcb_5:
 
     # kira "{b}...{/b}"
     kira "{b}...{/b}"
-
-# game/bar.rpy:197
-translate russian how_do_you_do_2cf0ddb0:
-
-    # "Она все говорила и говорила."
-    "Она все говорила и говорила."
-
-# game/bar.rpy:199
-translate russian how_do_you_do_3b5eb726:
-
-    # kira "{b}Так где, говоришь?{/b}"
-    kira "{b}Так где, говоришь?{/b}"
-
-# game/bar.rpy:201
-translate russian how_do_you_do_0b4d0242:
-
-    # "Я встрепенулся."
-    "Я встрепенулся."
-
-# game/bar.rpy:203
-translate russian how_do_you_do_e3830c99:
-
-    # me "{b}Что где?{/b}"
-    me "{b}Что где?{/b}"
-
-# game/bar.rpy:205
-translate russian how_do_you_do_c91e608b:
-
-    # kira "{b}Эй, ты что, меня не слушаешь?{/b}"
-    kira "{b}Эй, ты что, меня не слушаешь?{/b}"
-
-# game/bar.rpy:207
-translate russian how_do_you_do_e191512c:
-
-    # me "{b}Эээээ, да я все слушал, слушал, просто думаю. Скажи ещё раз, о чем ты спросила?{/b}"
-    me "{b}Эээээ, да я все слушал, слушал, просто думаю. Скажи ещё раз, о чем ты спросила?{/b}"
-
-# game/bar.rpy:209
-translate russian how_do_you_do_55b6b993:
-
-    # kira "{b}Где же убили девочку?{/b}"
-    kira "{b}Где же убили девочку?{/b}"
-
-# game/bar.rpy:211
-translate russian how_do_you_do_19dc22a6:
-
-    # "Резкий вопрос выбил меня из колеи. Так что там по слухам говорили? Надо что-то придумать..."
-    "Резкий вопрос выбил меня из колеи. Так что там по слухам говорили? Надо что-то придумать..."
-
-# game/bar.rpy:213
-translate russian how_do_you_do_f3202a9e:
-
-    # me "{b}…{/b}"
-    me "{b}…{/b}"
-
-# game/bar.rpy:215
-translate russian how_do_you_do_ff34cc0f:
-
-    # kira "{b}Ну?{/b}"
-    kira "{b}Ну?{/b}"
-
-# game/bar.rpy:229
-translate russian location_of_nurderer_bbf582d2:
-
-    # kira "{b}Да ладно, не дури! Сам понимаешь, что это не логично. Но где?{/b}"
-    kira "{b}Да ладно, не дури! Сам понимаешь, что это не логично. Но где?{/b}"
-
-# game/bar.rpy:231
-translate russian location_of_nurderer_e3b30c0a:
-
-    # "Что-то щелкнуло у меня в голове."
-    "Что-то щелкнуло у меня в голове."
-
-# game/bar.rpy:233
-translate russian location_of_nurderer_8af2cb01:
-
-    # "{i}...Девочка, минув фонтан, шла все менее и менее уверенно.{/i}"
-    "{i}...Девочка, минув фонтан, шла все менее и менее уверенно.{/i}"
-
-# game/bar.rpy:234
-translate russian location_of_nurderer_e330c510:
-
-    # "{i}Кажется, она сейчас заплачет. Увидев меня, девочка подбежала и спросила что-то про салфетки.{/i}"
-    "{i}Кажется, она сейчас заплачет. Увидев меня, девочка подбежала и спросила что-то про салфетки.{/i}"
-
-# game/bar.rpy:235
-translate russian location_of_nurderer_9ac99fef:
-
-    # "{i}А я все сижу на лавочке и думаю о чем-то… Неважно, о чем, или важно? Хотя... {/i}"
-    "{i}А я все сижу на лавочке и думаю о чем-то… Неважно, о чем, или важно? Хотя... {/i}"
-
-# game/bar.rpy:237
-translate russian location_of_nurderer_a9e488a1:
-
-    # me "{b}В парке, на центральной аллее, за крайней правой скамейкой.{/b}"
-    me "{b}В парке, на центральной аллее, за крайней правой скамейкой.{/b}"
-
-# game/bar.rpy:239
-translate russian location_of_nurderer_9f4eb528:
-
-    # kira "{b}Аааааа, так вот оно что! Логично, логично, а главное, как хорошо сходится!{/b}"
-    kira "{b}Аааааа, так вот оно что! Логично, логично, а главное, как хорошо сходится!{/b}"
-
-# game/bar.rpy:240
-translate russian location_of_nurderer_37d9e363:
-
-    # kira "{b}Только это... откуда ты это знаешь? В газете про это не написано!{/b}"
-    kira "{b}Только это... откуда ты это знаешь? В газете про это не написано!{/b}"
-
-# game/bar.rpy:242
-translate russian location_of_nurderer_6ef211f4:
-
-    # "Я напрягся."
-    "Я напрягся."
-
-# game/bar.rpy:244
-translate russian location_of_nurderer_992e0cf0:
-
-    # me "{b}Да так… Эмммм… Слухи тут ходят.{/b}"
-    me "{b}Да так… Эмммм… Слухи тут ходят.{/b}"
-
-# game/bar.rpy:246
-translate russian location_of_nurderer_014a4f7e:
-
-    # kira "{b}Слухи? Какие слухи?{/b}"
-    kira "{b}Слухи? Какие слухи?{/b}"
-
-# game/bar.rpy:248
-translate russian location_of_nurderer_a2d819c9:
-
-    # me "{b}Да так, слышал.{/b}"
-    me "{b}Да так, слышал.{/b}"
-
-# game/bar.rpy:250
-translate russian location_of_nurderer_afd14c67:
-
-    # "Но уже ничего говорить не хотелось. Девушка испытывала меня взглядом, явно раскусив меня. Я явно сболтнул лишнего."
-    "Но уже ничего говорить не хотелось. Девушка испытывала меня взглядом, явно раскусив меня. Я явно сболтнул лишнего."
-
-# game/bar.rpy:252
-translate russian location_of_nurderer_d9e6d2c8:
-
-    # kira "{b}Да что ты говоришь?)){/b}"
-    kira "{b}Да что ты говоришь?)){/b}"
-
-# game/bar.rpy:254
-translate russian location_of_nurderer_1034fdfb:
-
-    # me "{b}Так, девушка, перестаньте меня нервировать!{/b}"
-    me "{b}Так, девушка, перестаньте меня нервировать!{/b}"
-
-# game/bar.rpy:256
-translate russian location_of_nurderer_e98c0fd5:
-
-    # "Вдруг она неожиданно придвинулась ко мне и резко закричала:"
-    "Вдруг она неожиданно придвинулась ко мне и резко закричала:"
-
-# game/bar.rpy:258
-translate russian location_of_nurderer_370f2189:
-
-    # kira "{b}РУКИ ВВЕРХ!{/b}"
-    kira "{b}РУКИ ВВЕРХ!{/b}"
-
-# game/bar.rpy:260
-translate russian location_of_nurderer_4a02dbe8:
-
-    # "От неожиданности подскочил на стуле и резко вынул руки из карманов."
-    "От неожиданности подскочил на стуле и резко вынул руки из карманов."
-
-# game/bar.rpy:261
-translate russian location_of_nurderer_2da7891a:
-
-    # "Этих резких движений было достаточно, чтобы из карманов штанов вывалился маленький перочинный ножик, уже тупой и с пятнами засохшей крови."
-    "Этих резких движений было достаточно, чтобы из карманов штанов вывалился маленький перочинный ножик, уже тупой и с пятнами засохшей крови."
-
-# game/bar.rpy:263
-translate russian location_of_nurderer_0c18f048:
-
-    # kira "{b}Теперь паззл весь сложился.{/b}"
-    kira "{b}Теперь паззл весь сложился.{/b}"
-
-# game/bar.rpy:269
-translate russian act_3_bar_75611095:
-
-    # "Она жестом поманила кого-то за окном, и в бар вбежали сразу четверо полицейских, окружили, нацепили наручники и пригнули к столу."
-    "Она жестом поманила кого-то за окном, и в бар вбежали сразу четверо полицейских, окружили, нацепили наручники и пригнули к столу."
-
-# game/bar.rpy:271
-translate russian act_3_bar_4d431651:
-
-    # kira "{b}Ага, вот и преступничек попался. Я сразу поняла, что это ты: уж больно хорошо картину преступления знаешь.{/b}"
-    kira "{b}Ага, вот и преступничек попался. Я сразу поняла, что это ты: уж больно хорошо картину преступления знаешь.{/b}"
-
-# game/bar.rpy:272
-translate russian act_3_bar_b88cf468:
-
-    # kira "{b}Согласись, я тебя здорово уболтала! Это мой личный приём, никогда с такими, как ты, осечек не давал, когда человек еще находится в прострации после преступления, его проще всего вывести на чистую воду именно так!{/b}"
-    kira "{b}Согласись, я тебя здорово уболтала! Это мой личный приём, никогда с такими, как ты, осечек не давал, когда человек еще находится в прострации после преступления, его проще всего вывести на чистую воду именно так!{/b}"
-
-# game/bar.rpy:274
-translate russian act_3_bar_0a0c5fce:
-
-    # kira "{b}Ведь никаких газет не выходило, да и слухов не было. Вот, посмотри! Кукла!{/b}"
-    kira "{b}Ведь никаких газет не выходило, да и слухов не было. Вот, посмотри! Кукла!{/b}"
-
-# game/bar.rpy:276
-translate russian act_3_bar_e2af1833:
-
-    # "Она развернула газету и показала мне внутренний разворот. Там были только абсолютно чистые, но мокрые листы."
-    "Она развернула газету и показала мне внутренний разворот. Там были только абсолютно чистые, но мокрые листы."
-
-# game/bar.rpy:278
-translate russian act_3_bar_29732e82:
-
-    # kira "{b}Девочку-то нашли всего час назад! Ну и картина налицо: девочка на путях, с ножевыми…{/b}"
-    kira "{b}Девочку-то нашли всего час назад! Ну и картина налицо: девочка на путях, с ножевыми…{/b}"
-
-# game/bar.rpy:280
-translate russian act_3_bar_2a211bf0:
-
-    # "Кира еще раз осмотрела меня. Теперь новым, ликующим взглядом. Не знаю, как это описать, но я начал ее бояться, по-настоящему бояться."
-    "Кира еще раз осмотрела меня. Теперь новым, ликующим взглядом. Не знаю, как это описать, но я начал ее бояться, по-настоящему бояться."
-
-# game/bar.rpy:282
-translate russian act_3_bar_0b468b3c:
-
-    # kira "{b}Эй, только ты учти, что я все записала, видишь?{/b}"
-    kira "{b}Эй, только ты учти, что я все записала, видишь?{/b}"
-
-# game/bar.rpy:284
-translate russian act_3_bar_0ad84223:
-
-    # "Девушка взяла в руки пальто и повернула ко мне свой портфельчик другой стороной. Из маленького кармашка, надежно спрятанного от моих глаз, торчал портативный диктофон."
-    "Девушка взяла в руки пальто и повернула ко мне свой портфельчик другой стороной. Из маленького кармашка, надежно спрятанного от моих глаз, торчал портативный диктофон."
-
-# game/bar.rpy:286
-translate russian act_3_bar_5e8be61b:
-
-    # kira "{b}Ну что, Алекс, заскучал? Долго мы тут болтали?{/b}"
-    kira "{b}Ну что, Алекс, заскучал? Долго мы тут болтали?{/b}"
-
-# game/bar.rpy:288
-translate russian act_3_bar_f7cf9cbd:
-
-    # bartender "{b}Да ничего, ничего, я уже было подумал, что ты его не уломаешь. Проспорил двадцатку, однако!{/b}"
-    bartender "{b}Да ничего, ничего, я уже было подумал, что ты его не уломаешь. Проспорил двадцатку, однако!{/b}"
-
-# game/bar.rpy:290
-translate russian act_3_bar_c2c04463:
-
-    # kira "{b}Ах, да, совсем забыла, познакомься - это Алекс, свой человек. Как раз подкинул тебе пару слухов, подготовил к нашей беседе, так сказать.{/b}"
-    kira "{b}Ах, да, совсем забыла, познакомься - это Алекс, свой человек. Как раз подкинул тебе пару слухов, подготовил к нашей беседе, так сказать.{/b}"
-
-# game/bar.rpy:292
-translate russian act_3_bar_7bdf93e6:
-
-    # "Она подошла к стулу, на котором я сидел, нагнулась под барную стойку и, немного пошарив в темноте, достала мой старый перочинный ножик."
-    "Она подошла к стулу, на котором я сидел, нагнулась под барную стойку и, немного пошарив в темноте, достала мой старый перочинный ножик."
-
-# game/bar.rpy:294
-translate russian act_3_bar_e33ef5cc:
-
-    # kira "{b}А вот и ножик! Смотрите, на нем кровь!{/b}"
-    kira "{b}А вот и ножик! Смотрите, на нем кровь!{/b}"
-
-# game/bar.rpy:295
-translate russian act_3_bar_3208963f:
-
-    # kira "{b}Ууу, какой хороший образец. Настоящий швейцарский ножик, проржавел немного, правда, но выглядит действительно неплохо. Сажайте его, ребятки.{/b}"
-    kira "{b}Ууу, какой хороший образец. Настоящий швейцарский ножик, проржавел немного, правда, но выглядит действительно неплохо. Сажайте его, ребятки.{/b}"
-
-translate russian strings:
-
-    # bar.rpy:21
-    old "{b}Да так, льёт ещё.{/b}"
-    new "{b}Да так, льёт ещё.{/b}"
-
-    # bar.rpy:21
-    old "{b}. . .{/b}"
-    new "{b}. . .{/b}"
-
-    # bar.rpy:85
-    old "{b}Норм.{/b}"
-    new "{b}Норм.{/b}"
-
-    # bar.rpy:85
-    old "{b}Да ничего, перебиваюсь потихоньку.{/b}"
-    new "{b}Да ничего, перебиваюсь потихоньку.{/b}"
-
-    # bar.rpy:85
-    old "{b}Все плохо.{/b}"
-    new "{b}Все плохо.{/b}"
-
-    # bar.rpy:217
-    old "{b}На берегу реки.{/b}"
-    new "{b}На берегу реки.{/b}"
-
-    # bar.rpy:217
-    old "{b}В лесу.{/b}"
-    new "{b}В лесу.{/b}"
-
-    # bar.rpy:217
-    old "{b}На заброшенном складе.{/b}"
-    new "{b}На заброшенном складе.{/b}"
-
-    # bar.rpy:217
-    old "{b}На железнодорожных путях.{/b}"
-    new "{b}На железнодорожных путях.{/b}"
-
-    # bar.rpy:217
-    old "{b}Где-то в подворотне.{/b}"
-    new "{b}Где-то в подворотне.{/b}"
-# TODO: Translation updated at 2018-08-06 00:02
-
-# game/bar.rpy:7
-translate russian act_1_bar_0207a196:
-
-    # "There are staying several round and shabby wooden tables, ragged to shine."
-    "There are staying several round and shabby wooden tables, ragged to shine."
-
-# game/bar.rpy:8
-translate russian act_1_bar_6f69d529:
-
-    # "In the far corner, somewhere in the dark an old, but still working jukebox is playing. It flashes with its survived light bulbs and calls to push a small coin into it to enjoy the jazz."
-    "In the far corner, somewhere in the dark an old, but still working jukebox is playing. It flashes with its survived light bulbs and calls to push a small coin into it to enjoy the jazz."
-
-# game/bar.rpy:9
-translate russian act_1_bar_36f06a7d:
-
-    # "A half-asleep bartender stands behind the bar and, apparently, blanches by inertia already clean and shiny stand."
-    "A half-asleep bartender stands behind the bar and, apparently, blanches by inertia already clean and shiny stand."
-
-# game/bar.rpy:10
-translate russian act_1_bar_b602f964:
-
-    # "Nearby hangs an old tv, telling some news of the week. Behind the bartender, on shelves, there are placed already opened and half emptied different drinks."
-    "Nearby hangs an old tv, telling some news of the week. Behind the bartender, on shelves, there are placed already opened and half emptied different drinks."
-
-# game/bar.rpy:11
-translate russian act_1_bar_e6090125:
-
-    # "Somewhere far away plays calm and quiet music, obviously inviting guests to stay, sit down and take one more glass of something strong and warming."
-    "Somewhere far away plays calm and quiet music, obviously inviting guests to stay, sit down and take one more glass of something strong and warming."
-
-# game/bar.rpy:13
-translate russian act_1_bar_7bc892ed:
-
-    # me "{b}Good evening, a glass of dark, please.{/b}"
-    me "{b}Good evening, a glass of dark, please.{/b}"
-
-# game/bar.rpy:15
-translate russian act_1_bar_09896e84:
-
-    # "The bartender watches at me sullenly, then quickly hides under the rack. A minute later he raises with a big glass, filled up to the edges."
-    "The bartender watches at me sullenly, then quickly hides under the rack. A minute later he raises with a big glass, filled up to the edges."
-
-# game/bar.rpy:17
-translate russian act_1_bar_306a6f34:
-
-    # bartender "{b}It’s 4.50{/b}"
-    bartender "{b}It’s 4.50{/b}"
-
-# game/bar.rpy:19
-translate russian act_1_bar_1a22bb96:
-
-    # "I’m sitting and tasting the contents of the glass. On the first view, nothing remarkable, but after a moment a strong heat is spilling through the body."
-    "I’m sitting and tasting the contents of the glass. On the first view, nothing remarkable, but after a moment a strong heat is spilling through the body."
-
-# game/bar.rpy:21
-translate russian act_1_bar_93124406:
-
-    # "I’m sitting and thinking about something, something far. Suddenly, I hear:"
-    "I’m sitting and thinking about something, something far. Suddenly, I hear:"
-
-# game/bar.rpy:23
-translate russian act_1_bar_7c389cbd:
-
-    # bartender "{b}So, how’s the weather? Is it raining hard?{/b}"
-    bartender "{b}So, how’s the weather? Is it raining hard?{/b}"
-
-# game/bar.rpy:27
-translate russian is_it_raining_10c45540:
-
-    # me "{b}Well, yea, it’s raining hard.{/b}"
-    me "{b}Well, yea, it’s raining hard.{/b}"
-
-# game/bar.rpy:28
-translate russian is_it_raining_893edba0:
-
-    # bartender "{b}Heck, the weather is a strange thing. Today the forecast promised neither the clouds here, but in real…{/b}"
-    bartender "{b}Heck, the weather is a strange thing. Today the forecast promised neither the clouds here, but in real…{/b}"
-
-# game/bar.rpy:31
-translate russian is_it_raining_0a34e4de:
-
-    # "The bartender looked at me, waiting for me to answer something. However, he didn’t get any response, quickly turned around and started switching tv channels."
-    "The bartender looked at me, waiting for me to answer something. However, he didn’t get any response, quickly turned around and started switching tv channels."
-
-# game/bar.rpy:33
-translate russian is_it_raining_3d132d0d:
-
-    # "Switched all available tv channels and didn’t find anything interesting, the bartender again contacted me:"
-    "Switched all available tv channels and didn’t find anything interesting, the bartender again contacted me:"
-
-# game/bar.rpy:34
-translate russian is_it_raining_68979e90:
-
-    # bartender "{b}Look, rumours go, so go. They say, that the girl was found at the railroad, she was totally cut, that’s awkward. As you remember, you shudder, such a spectacle is not given to everyone… Sincerely speaking, I didn’t see it. Did you hear that?{/b}"
-    bartender "{b}Look, rumours go, so go. They say, that the girl was found at the railroad, she was totally cut, that’s awkward. As you remember, you shudder, such a spectacle is not given to everyone… Sincerely speaking, I didn’t see it. Did you hear that?{/b}"
-
-# game/bar.rpy:35
-translate russian is_it_raining_7a0375cc:
-
-    # me "{b}Well, nope, I hear this thing the first time. What else do people say?{/b}"
-    me "{b}Well, nope, I hear this thing the first time. What else do people say?{/b}"
-
-# game/bar.rpy:36
-translate russian is_it_raining_0243c2bb:
-
-    # bartender "{b}As far as I know, they look for the murderer, but they can’t find him. Well, we live in a small town, where everyone knows each other in person. That means this murderer is one of us?{/b}"
-    bartender "{b}As far as I know, they look for the murderer, but they can’t find him. Well, we live in a small town, where everyone knows each other in person. That means this murderer is one of us?{/b}"
-
-# game/bar.rpy:37
-translate russian is_it_raining_c3b3cd59:
-
-    # me "{b}That’s the point.{/b}"
-    me "{b}That’s the point.{/b}"
-
-# game/bar.rpy:42
-translate russian act_2_bar_8368ca67:
-
-    # "So, I was sitting and thinking for a long time, as suddenly I was abruptly woke up by a knock on the door."
-    "So, I was sitting and thinking for a long time, as suddenly I was abruptly woke up by a knock on the door."
-
-# game/bar.rpy:43
-translate russian act_2_bar_e8421ba7:
-
-    # "The girl entered the bar, she was completely wet, out of breath and terribly dissatisfied with something."
-    "The girl entered the bar, she was completely wet, out of breath and terribly dissatisfied with something."
-
-# game/bar.rpy:44
-translate russian act_2_bar_2a26c4bf:
-
-    # "She quickly ran to the rack, climbed on a high chair and flopped on it, sighing with relief."
-    "She quickly ran to the rack, climbed on a high chair and flopped on it, sighing with relief."
-
-# game/bar.rpy:45
-translate russian act_2_bar_10d4619b:
-
-    # "The girl was wearing a black coat, under which a red Scottish skirt and white shirt were seen, a shirt was soaked through and adhered to the body."
-    "The girl was wearing a black coat, under which a red Scottish skirt and white shirt were seen, a shirt was soaked through and adhered to the body."
-
-# game/bar.rpy:46
-translate russian act_2_bar_28ab7b34:
-
-    # "At the feet of the girl were already greyed cause of rain and dirt somewhen white knee-highs and black shoes looked similar to school boots of first-formers."
-    "At the feet of the girl were already greyed cause of rain and dirt somewhen white knee-highs and black shoes looked similar to school boots of first-formers."
-
-# game/bar.rpy:48
-translate russian act_2_bar_01df6640:
-
-    # "On the next chair, stranger put her small bag, from which water streamed down, and then hang on it her coat, which would be nice to be squeezed."
-    "On the next chair, stranger put her small bag, from which water streamed down, and then hang on it her coat, which would be nice to be squeezed."
-
-# game/bar.rpy:49
-translate russian act_2_bar_47398d73:
-
-    # "After sitting for a minute, the girl finally applied to the bartender:"
-    "After sitting for a minute, the girl finally applied to the bartender:"
-
-# game/bar.rpy:54
-translate russian act_2_bar_efcf4a20:
-
-    # kira "{b}Would you give me a cup of hot tea?{/b}"
-    kira "{b}Would you give me a cup of hot tea?{/b}"
-
-# game/bar.rpy:56
-translate russian act_2_bar_76c34949:
-
-    # "The bartender came to her and silently poured a cup of hot tea and put obligatory free small chocolate bar near the cup."
-    "The bartender came to her and silently poured a cup of hot tea and put obligatory free small chocolate bar near the cup."
-
-# game/bar.rpy:57
-translate russian act_2_bar_10979f56:
-
-    # "The girl instantly took a hot drink, put a cup and closed eyes, thinking about something."
-    "The girl instantly took a hot drink, put a cup and closed eyes, thinking about something."
-
-# game/bar.rpy:59
-translate russian act_2_bar_a1b1054b:
-
-    # "We were sitting for about half an hour this way. Suddenly she opened her eyes, turned her head to me and said:"
-    "We were sitting for about half an hour this way. Suddenly she opened her eyes, turned her head to me and said:"
-
-# game/bar.rpy:61
-translate russian act_2_bar_95d618e3:
-
-    # kira "{b}Oh, hi! What a strange weather today!{/b}"
-    kira "{b}Oh, hi! What a strange weather today!{/b}"
-
-# game/bar.rpy:63
-translate russian act_2_bar_0a145602:
-
-    # "Then she looked me around and asked unexpectedly:"
-    "Then she looked me around and asked unexpectedly:"
-
-# game/bar.rpy:65
-translate russian act_2_bar_e9133b9e:
-
-    # kira "{b}Is it such interesting to watch me?{/b}"
-    kira "{b}Is it such interesting to watch me?{/b}"
-
-# game/bar.rpy:67
-translate russian act_2_bar_262af892:
-
-    # "I choked with surprise."
-    "I choked with surprise."
-
-# game/bar.rpy:68
-translate russian act_2_bar_a5f2e778:
-
-    # "Only now I noticed that all this time I stared at her."
-    "Only now I noticed that all this time I stared at her."
-
-# game/bar.rpy:69
-translate russian act_2_bar_f2abecd5:
-
-    # "I felt slightly uncomfortable. I was already turning away the other way, as I heard:"
-    "I felt slightly uncomfortable. I was already turning away the other way, as I heard:"
-
-# game/bar.rpy:71
-translate russian act_2_bar_20511717:
-
-    # kira "{b}And this place seems to be soooo… interesting. By the way, my name is Kira.{/b}"
-    kira "{b}And this place seems to be soooo… interesting. By the way, my name is Kira.{/b}"
-
-# game/bar.rpy:83
-translate russian act_2_bar_a469c046:
-
-    # "I introduced myself."
-    "I introduced myself."
-
-# game/bar.rpy:85
-translate russian act_2_bar_230f19ae:
-
-    # kira "{b}Nice to meet you!{/b}"
-    kira "{b}Nice to meet you!{/b}"
-
-# game/bar.rpy:87
-translate russian act_2_bar_ba402689:
-
-    # me "{b}And you.{/b}"
-    me "{b}And you.{/b}"
-
-# game/bar.rpy:89
-translate russian act_2_bar_8a03b85b:
-
-    # kira "{b}How do you do?{/b}"
-    kira "{b}How do you do?{/b}"
-
-# game/bar.rpy:93
-translate russian how_do_you_do_738c32bc:
-
-    # me "{b}Fine.{/b}"
-    me "{b}Fine.{/b}"
-
-# game/bar.rpy:94
-translate russian how_do_you_do_de8cacfc:
-
-    # kira "{b}Well, fine means fine, what else can I say?{/b}"
-    kira "{b}Well, fine means fine, what else can I say?{/b}"
-
-# game/bar.rpy:97
-translate russian how_do_you_do_501f3a60:
-
-    # me "{b}Well, I’m not bad, just trying to live here.{/b}"
-    me "{b}Well, I’m not bad, just trying to live here.{/b}"
-
-# game/bar.rpy:98
-translate russian how_do_you_do_d2ea6199:
-
-    # kira "{b}Hehe, not bad, not bad, life just slowly flows in this town, and we’re trying not to get behind it.{/b}"
-    kira "{b}Hehe, not bad, not bad, life just slowly flows in this town, and we’re trying not to get behind it.{/b}"
-
-# game/bar.rpy:101
-translate russian how_do_you_do_29ee8e1f:
-
-    # me "{b}It can’t be worse.{/b}"
-    me "{b}It can’t be worse.{/b}"
-
-# game/bar.rpy:102
-translate russian how_do_you_do_1652c11d:
-
-    # kira "{b}Well, it worth to look for something good in every terrible situation, you don’t have to depress yourself.{/b}"
-    kira "{b}Well, it worth to look for something good in every terrible situation, you don’t have to depress yourself.{/b}"
-
-# game/bar.rpy:104
-translate russian how_do_you_do_fa0f23a8:
-
-    # "Kira drank one more sip of tea and unpacked a small chocolate bar."
-    "Kira drank one more sip of tea and unpacked a small chocolate bar."
-
-# game/bar.rpy:105
-translate russian how_do_you_do_acef427e:
-
-    # "She got from skirts’ pocket small Swedish pen knife and skillfully shared sweet treat into two pieces."
-    "She got from skirts’ pocket small Swedish pen knife and skillfully shared sweet treat into two pieces."
-
-# game/bar.rpy:107
-translate russian how_do_you_do_8d9c37a6:
-
-    # kira "{b}Treat yourself!{/b}"
-    kira "{b}Treat yourself!{/b}"
-
-# game/bar.rpy:109
-translate russian how_do_you_do_8eb5bf42:
-
-    # "My eyes stared at her penknife. It’s so small and comfortable, I bet on anything, it can be carried everywhere without fail, so it is invisible."
-    "My eyes stared at her penknife. It’s so small and comfortable, I bet on anything, it can be carried everywhere without fail, so it is invisible."
-
-# game/bar.rpy:110
-translate russian how_do_you_do_e4f9a4d4:
-
-    # "Kira hid her small knife in pocket, and I mechanically, looking at her, shove hand in the pants pocket."
-    "Kira hid her small knife in pocket, and I mechanically, looking at her, shove hand in the pants pocket."
-
-# game/bar.rpy:111
-translate russian how_do_you_do_707c44c9:
-
-    # "I feel something cold and metallic. Is it really also a knife?"
-    "I feel something cold and metallic. Is it really also a knife?"
-
-# game/bar.rpy:112
-translate russian how_do_you_do_7658c650:
-
-    # "It was so rusty, slippery and unpleasant, that I instantly pulled my hand and put in on the bar counter."
-    "It was so rusty, slippery and unpleasant, that I instantly pulled my hand and put in on the bar counter."
-
-# game/bar.rpy:113
-translate russian how_do_you_do_e578e4be:
-
-    # "My forehead just sweated. It’s strange, what’s wrong with me? {b} What’s in the pocket?{/b}"
-    "My forehead just sweated. It’s strange, what’s wrong with me? {b} What’s in the pocket?{/b}"
-
-# game/bar.rpy:115
-translate russian how_do_you_do_efeca447:
-
-    # "It did not hide from Kira."
-    "It did not hide from Kira."
-
-# game/bar.rpy:116
-translate russian how_do_you_do_bb9434ac:
-
-    # "She quickly looked me around again and thought about something."
-    "She quickly looked me around again and thought about something."
-
-# game/bar.rpy:117
-translate russian how_do_you_do_0140bd4b:
-
-    # "Apparently, having decided to distract me a little and fill an embarrassing silence, she began to talk:"
-    "Apparently, having decided to distract me a little and fill an embarrassing silence, she began to talk:"
-
-# game/bar.rpy:119
-translate russian how_do_you_do_b1d3da8f:
-
-    # kira "{b}Uh, well, your rail is extremely noisy and super loud!{/b}"
-    kira "{b}Uh, well, your rail is extremely noisy and super loud!{/b}"
-
-# game/bar.rpy:121
-translate russian how_do_you_do_4d913a4a:
-
-    # "I listened to the noise outside and heard the tapping of the electric train's wheels and the creaking of old trains on the railway which is nearby."
-    "I listened to the noise outside and heard the tapping of the electric train's wheels and the creaking of old trains on the railway which is nearby."
-
-# game/bar.rpy:123
-translate russian how_do_you_do_2d90742a:
-
-    # me "{b}Well, yes, there is. In general, the railway is the only place, which is at least something interesting in this old boring town.{/b}"
-    me "{b}Well, yes, there is. In general, the railway is the only place, which is at least something interesting in this old boring town.{/b}"
-
-# game/bar.rpy:125
-translate russian how_do_you_do_8cf536b7:
-
-    # kira "{b}Hey, I’m pretty sure, that there are lots of remarkable places! Here, when I ran past old square, I noticed by the eye park with a fountain. I’m thinking about visiting that place when the rain stops.{/b}"
-    kira "{b}Hey, I’m pretty sure, that there are lots of remarkable places! Here, when I ran past old square, I noticed by the eye park with a fountain. I’m thinking about visiting that place when the rain stops.{/b}"
-
-# game/bar.rpy:127
-translate russian how_do_you_do_8d700534:
-
-    # "{i}I sharply scored a shiver. Some images surfaced in my head, there were images of the ugly old forest, overgrown paths, old fountain, which hardly released jets of dark-green stinking water, a small girl, running home across the park.{/i}"
-    "{i}I sharply scored a shiver. Some images surfaced in my head, there were images of the ugly old forest, overgrown paths, old fountain, which hardly released jets of dark-green stinking water, a small girl, running home across the park.{/i}"
-
-# game/bar.rpy:128
-translate russian how_do_you_do_2b438869:
-
-    # "{i}I’m sitting on the bench and thinking about something…No matter, about what.{/i}"
-    "{i}I’m sitting on the bench and thinking about something…No matter, about what.{/i}"
-
-# game/bar.rpy:130
-translate russian how_do_you_do_bf7a9b50:
-
-    # kira "{b}Hey! Are you alright?{/b}"
-    kira "{b}Hey! Are you alright?{/b}"
-
-# game/bar.rpy:132
-translate russian how_do_you_do_523d6935:
-
-    # me "{b}Yeah, I’m fine, just thinking.{/b}"
-    me "{b}Yeah, I’m fine, just thinking.{/b}"
-
-# game/bar.rpy:134
-translate russian how_do_you_do_057ff4a2:
-
-    # kira "{b}Well, okay. And in general, this town is not so boring, as you think, I’m sure, it has a life!{/b}"
-    kira "{b}Well, okay. And in general, this town is not so boring, as you think, I’m sure, it has a life!{/b}"
-
-# game/bar.rpy:136
-translate russian how_do_you_do_56c72bd1:
-
-    # "Her expression started to annoy me."
-    "Her expression started to annoy me."
-
-# game/bar.rpy:137
-translate russian how_do_you_do_f9d367a2:
-
-    # "My new companion opened a recent newspaper and being stared somewhere on the page, asked me:"
-    "My new companion opened a recent newspaper and being stared somewhere on the page, asked me:"
-
-# game/bar.rpy:139
-translate russian how_do_you_do_0d5a249c:
-
-    # kira "{b}I came to this town quite recently. How is life, what is happening in the town?{/b}"
-    kira "{b}I came to this town quite recently. How is life, what is happening in the town?{/b}"
-
-# game/bar.rpy:141
-translate russian how_do_you_do_13cd6b9e:
-
-    # me "{b}Well, nothing special, our town is small, and nothing happens.{/b}"
-    me "{b}Well, nothing special, our town is small, and nothing happens.{/b}"
-
-# game/bar.rpy:143
-translate russian how_do_you_do_c8251503:
-
-    # kira "{b}Haven’t you read about the murder of a girl on the railway tracks?{/b}"
-    kira "{b}Haven’t you read about the murder of a girl on the railway tracks?{/b}"
-
-# game/bar.rpy:145
-translate russian how_do_you_do_3d4817c9:
-
-    # me "{b}And there is nothing interesting, well, you think, somebody threw the body on the way.{/b}"
-    me "{b}And there is nothing interesting, well, you think, somebody threw the body on the way.{/b}"
-
-# game/bar.rpy:147
-translate russian how_do_you_do_ad2e09e5:
-
-    # "{i}I didn’t read any newspapers, of course, so I just announced some rumours that she would leave me alone.{/i}"
-    "{i}I didn’t read any newspapers, of course, so I just announced some rumours that she would leave me alone.{/i}"
-
-# game/bar.rpy:149
-translate russian how_do_you_do_55a3283a:
-
-    # kira "{b}Wow, wow, but this doesn’t happen every day! And, as in real detectives, there were no witnesses?{/b}"
-    kira "{b}Wow, wow, but this doesn’t happen every day! And, as in real detectives, there were no witnesses?{/b}"
-
-# game/bar.rpy:151
-translate russian how_do_you_do_475eefa9:
-
-    # me "{b}It seems to be something like that.{/b}"
-    me "{b}It seems to be something like that.{/b}"
-
-# game/bar.rpy:153
-translate russian how_do_you_do_8091db7c:
-
-    # kira "{b}Is the murderer already found?{/b}"
-    kira "{b}Is the murderer already found?{/b}"
-
-# game/bar.rpy:155
-translate russian how_do_you_do_a9f6e73b:
-
-    # me "{b}Definitely no, if police had found that guy, they would have written about this in the newspaper.{/b}"
-    me "{b}Definitely no, if police had found that guy, they would have written about this in the newspaper.{/b}"
-
-# game/bar.rpy:157
-translate russian how_do_you_do_9f713854:
-
-    # kira "{b}Oh no, you shouldn’t have said it, now I'm afraid to go out!{/b}"
-    kira "{b}Oh no, you shouldn’t have said it, now I'm afraid to go out!{/b}"
-
-# game/bar.rpy:159
-translate russian how_do_you_do_836f5e12:
-
-    # "The girl was expressive, talked a lot and quickly and gesticulated actively. What a chatterbox!"
-    "The girl was expressive, talked a lot and quickly and gesticulated actively. What a chatterbox!"
-
-# game/bar.rpy:161
-translate russian how_do_you_do_f2131846:
-
-    # kira "{b}What else can you tell me, I am so interested!{/b}"
-    kira "{b}What else can you tell me, I am so interested!{/b}"
-
-# game/bar.rpy:163
-translate russian how_do_you_do_99885c43:
-
-    # me "{b}… Emmm, what?{/b}"
-    me "{b}… Emmm, what?{/b}"
-
-# game/bar.rpy:165
-translate russian how_do_you_do_56ea8791:
-
-    # kira "{b}What’s her name?{/b}"
-    kira "{b}What’s her name?{/b}"
-
-# game/bar.rpy:167
-translate russian how_do_you_do_4a60976e:
-
-    # me "{b}I don’t know.{/b}"
-    me "{b}I don’t know.{/b}"
-
-# game/bar.rpy:169
-translate russian how_do_you_do_ed5343c3:
-
-    # kira "{b}Oh, don’t you know, whether she was a pupil or not?{/b}"
-    kira "{b}Oh, don’t you know, whether she was a pupil or not?{/b}"
-
-# game/bar.rpy:171
-translate russian how_do_you_do_9818054f:
-
-    # me "{b}I don’t know!{/b}"
-    me "{b}I don’t know!{/b}"
-
-# game/bar.rpy:173
-translate russian how_do_you_do_a8dedf79:
-
-    # kira "{b}And in which class was she studying? How old was she?{/b}"
-    kira "{b}And in which class was she studying? How old was she?{/b}"
-
-# game/bar.rpy:175
-translate russian how_do_you_do_d605fa3a:
-
-    # me "{b}The hell I know!{/b}"
-    me "{b}The hell I know!{/b}"
-
-# game/bar.rpy:177
-translate russian how_do_you_do_bf4deb73:
-
-    # kira "{b}Hmm, well, okay. I wouldn’t like to know too much, anyway.{/b}"
-    kira "{b}Hmm, well, okay. I wouldn’t like to know too much, anyway.{/b}"
-
-# game/bar.rpy:179
-translate russian how_do_you_do_b7be48ad:
-
-    # "Kira defiantly turned away, puffed out her cheeks like a hamster, and began to look at the ceiling with displeasure."
-    "Kira defiantly turned away, puffed out her cheeks like a hamster, and began to look at the ceiling with displeasure."
-
-# game/bar.rpy:182
-translate russian how_do_you_do_26f50e1d:
-
-    # "{i}...The girl ran to the fountain and lowered tempo. Then she simply walked, restoring breathing.{/i}"
-    "{i}...The girl ran to the fountain and lowered tempo. Then she simply walked, restoring breathing.{/i}"
-
-# game/bar.rpy:183
-translate russian how_do_you_do_27e682a7:
-
-    # "{i}Tears are flowing down her cheeks, her brows have frowned, his lips are compressed, her cheeks are inflated and her hands are clenched into fists, and behind her back is a new red rucksack, for some reason diligently piled in the mud.{/i}"
-    "{i}Tears are flowing down her cheeks, her brows have frowned, his lips are compressed, her cheeks are inflated and her hands are clenched into fists, and behind her back is a new red rucksack, for some reason diligently piled in the mud.{/i}"
-
-# game/bar.rpy:184
-translate russian how_do_you_do_1ae90fcd:
-
-    # "{i}Now I see, why she was disappointed…{/i}"
-    "{i}Now I see, why she was disappointed…{/i}"
-
-# game/bar.rpy:186
-translate russian how_do_you_do_4b6925f6:
-
-    # kira "{b}Can you imagine, whom did I meet today? Your mayor! As I know, he is a hidden person, he does not get out almost from home. And today he took it and went out. He gave a lot of interviews, talked with the people ...{/b}"
-    kira "{b}Can you imagine, whom did I meet today? Your mayor! As I know, he is a hidden person, he does not get out almost from home. And today he took it and went out. He gave a lot of interviews, talked with the people ...{/b}"
-
-# game/bar.rpy:189
-translate russian how_do_you_do_d925552c:
-
-    # "I began to yawn, tired of her chatter, and put my hands in my pockets, so as not to fall asleep."
-    "I began to yawn, tired of her chatter, and put my hands in my pockets, so as not to fall asleep."
-
-# game/bar.rpy:192
-translate russian how_do_you_do_a79bc072:
-
-    # kira "{b}… because the police must look for a criminal, but not to look through their homes and ask who has any plans…{/b}"
-    kira "{b}… because the police must look for a criminal, but not to look through their homes and ask who has any plans…{/b}"
-
-# game/bar.rpy:195
-translate russian how_do_you_do_cc6b1095:
-
-    # "Only snatches of her phrases reached me, I had long ceased to listen and perceive her monologue."
-    "Only snatches of her phrases reached me, I had long ceased to listen and perceive her monologue."
-
-# game/bar.rpy:198
-translate russian how_do_you_do_4393e3bb:
-
-    # kira "{b}… but the taxes that you pay go to them for equipment, and they don’t use it, still walking by hand...{/b}"
-    kira "{b}… but the taxes that you pay go to them for equipment, and they don’t use it, still walking by hand...{/b}"
-
-# game/bar.rpy:200
-translate russian how_do_you_do_f853e390:
-
-    # kira "{b}… and one of them has a funny doggie called Chappi, he’s a good neighbour, however…{/b}"
-    kira "{b}… and one of them has a funny doggie called Chappi, he’s a good neighbour, however…{/b}"
-
+    
 # game/bar.rpy:203
 translate russian how_do_you_do_ca5c177e:
 
     # "She kept talking and talking."
-    "She kept talking and talking."
+    "Она все говорила и говорила."
 
 # game/bar.rpy:205
 translate russian how_do_you_do_989c1bcb_6:
@@ -1577,303 +677,314 @@ translate russian how_do_you_do_989c1bcb_6:
 translate russian how_do_you_do_98700220:
 
     # kira "{b}So where did you say?{/b}"
-    kira "{b}So where did you say?{/b}"
+    kira "{b}Так где, говоришь?{/b}"
 
 # game/bar.rpy:208
 translate russian how_do_you_do_7c5ad8d5:
 
     # "I cheered up."
-    "I cheered up."
+    "Я встрепенулся."
 
 # game/bar.rpy:210
 translate russian how_do_you_do_24dd3ed9:
 
     # me "{b}What where?{/b}"
-    me "{b}What where?{/b}"
+    me "{b}Что где?{/b}"
 
 # game/bar.rpy:212
 translate russian how_do_you_do_3b771efc:
 
     # kira "{b}Hey, aren’t you listening to me?{/b}"
-    kira "{b}Hey, aren’t you listening to me?{/b}"
+    kira "{b}Эй, ты что, меня не слушаешь?{/b}"
 
 # game/bar.rpy:214
 translate russian how_do_you_do_b0b2ebf6:
 
     # me "{b}Eeeem, I was listening, of course, just thinking. Tell me one more time, what did you asked me about?{/b}"
-    me "{b}Eeeem, I was listening, of course, just thinking. Tell me one more time, what did you asked me about?{/b}"
+    me "{b}Эээээ, да я все слушал, слушал, просто думаю. Скажи ещё раз, о чем ты спросила?{/b}"
 
 # game/bar.rpy:216
 translate russian how_do_you_do_ffd0b6e6:
 
     # kira "{b}Where was the girl killed?{/b}"
-    kira "{b}Where was the girl killed?{/b}"
+    kira "{b}Где же убили девочку?{/b}"
 
 # game/bar.rpy:218
 translate russian how_do_you_do_f3f85cb3:
 
     # "The sharp question knocked me out of the rut. So what's rumoured to be said? I Need to come up with something..."
-    "The sharp question knocked me out of the rut. So what's rumoured to be said? I Need to come up with something..."
+    "Резкий вопрос выбил меня из колеи. Так что там по слухам говорили? Надо что-то придумать..."
+
+# game/bar.rpy:213
+translate russian how_do_you_do_f3202a9e:
+
+    # me "{b}…{/b}"
+    me "{b}…{/b}"
 
 # game/bar.rpy:222
 translate russian how_do_you_do_d39ad64b:
 
     # kira "{b}So?{/b}"
-    kira "{b}So?{/b}"
+    kira "{b}Ну?{/b}"
 
 # game/bar.rpy:236
 translate russian location_of_nurderer_2f245d75:
 
     # kira "{b}Come on, don’t be silly! You may see by yourself, that that’s not logical. But where?{/b}"
-    kira "{b}Come on, don’t be silly! You may see by yourself, that that’s not logical. But where?{/b}"
+    kira "{b}Да ладно, не дури! Сам понимаешь, что это не логично. Но где?{/b}"
 
 # game/bar.rpy:238
 translate russian location_of_nurderer_868b98f0:
 
     # "Something clicked in my head."
-    "Something clicked in my head."
+    "Что-то щелкнуло у меня в голове."
 
 # game/bar.rpy:240
 translate russian location_of_nurderer_5c634f5d:
 
     # "{i}...The girl, passing the fountain, walked less and less confidently.{/i}"
-    "{i}...The girl, passing the fountain, walked less and less confidently.{/i}"
+    "{i}...Девочка, минув фонтан, шла все менее и менее уверенно.{/i}"
 
 # game/bar.rpy:241
 translate russian location_of_nurderer_04340615:
 
     # "{i}It seems that she’s going to cry right now. Seeing me, the girl ran up and asked something about napkins.{/i}"
-    "{i}It seems that she’s going to cry right now. Seeing me, the girl ran up and asked something about napkins.{/i}"
+    "{i}Кажется, она сейчас заплачет. Увидев меня, девочка подбежала и спросила что-то про салфетки.{/i}"
 
 # game/bar.rpy:242
 translate russian location_of_nurderer_3c21e14c:
 
     # "{i}And I’m sitting on the bench and thinking about something… It doesn’t matter, about what, or does it matter? Although...{/i}"
-    "{i}And I’m sitting on the bench and thinking about something… It doesn’t matter, about what, or does it matter? Although...{/i}"
+    "{i}А я все сижу на лавочке и думаю о чем-то… Неважно, о чем, или важно? Хотя... {/i}"
 
 # game/bar.rpy:244
 translate russian location_of_nurderer_a88cedb6:
 
     # me "{b}In the park, on the central avenue, behind the extreme right bench.{/b}"
-    me "{b}In the park, on the central avenue, behind the extreme right bench.{/b}"
+    me "{b}В парке, на центральной аллее, за крайней правой скамейкой.{/b}"
 
 # game/bar.rpy:246
 translate russian location_of_nurderer_dc8f8562:
 
     # kira "{b}Aааааа, so that's it! Logical, logical, and most importantly, how well it converges!{/b}"
-    kira "{b}Aааааа, so that's it! Logical, logical, and most importantly, how well it converges!{/b}"
+    kira "{b}Аааааа, так вот оно что! Логично, логично, а главное, как хорошо сходится!{/b}"
 
 # game/bar.rpy:247
 translate russian location_of_nurderer_9109fd80:
 
     # kira "{b}Just one more thing... How did you know that? The newspaper does not say this!{/b}"
-    kira "{b}Just one more thing... How did you know that? The newspaper does not say this!{/b}"
+    kira "{b}Только это... откуда ты это знаешь? В газете про это не написано!{/b}"
 
 # game/bar.rpy:249
 translate russian location_of_nurderer_886c0e62:
 
     # "I strained."
-    "I strained."
+    "Я напрягся."
 
 # game/bar.rpy:251
 translate russian location_of_nurderer_93830fe8:
 
     # me "{b}Err... Ummm... the rumours are here{/b}"
-    me "{b}Err... Ummm... the rumours are here{/b}"
+    me "{b}Да так… Эмммм… Слухи тут ходят.{/b}"
+
 
 # game/bar.rpy:253
 translate russian location_of_nurderer_f5ecf407:
 
     # kira "{b}Rumours? What kind of rumours?{/b}"
-    kira "{b}Rumours? What kind of rumours?{/b}"
+    kira "{b}Слухи? Какие слухи?{/b}"
 
 # game/bar.rpy:255
 translate russian location_of_nurderer_f9be3d54:
 
     # me "{b}Well, I heard it.{/b}"
-    me "{b}Well, I heard it.{/b}"
+    me "{b}Да так, слышал.{/b}"
 
 # game/bar.rpy:257
 translate russian location_of_nurderer_e394acd6:
 
     # "But I didn’t want to say anything. The girl tested me with a look, obviously having bitten me. I obviously blurted out too much."
-    "But I didn’t want to say anything. The girl tested me with a look, obviously having bitten me. I obviously blurted out too much."
+    "Но уже ничего говорить не хотелось. Девушка испытывала меня взглядом, явно раскусив меня. Я явно сболтнул лишнего."
 
 # game/bar.rpy:259
 translate russian location_of_nurderer_467335b2:
 
     # kira "{b}What are you talking about?)){/b}"
-    kira "{b}What are you talking about?)){/b}"
+    kira "{b}Да что ты говоришь?)){/b}"
 
 # game/bar.rpy:261
 translate russian location_of_nurderer_74f4cb77:
 
     # me "{b}Well, girl, stop annoying me!{/b}"
-    me "{b}Well, girl, stop annoying me!{/b}"
+    me "{b}Так, девушка, перестаньте меня нервировать!{/b}"
 
 # game/bar.rpy:263
 translate russian location_of_nurderer_6b9065c8:
 
     # "Suddenly she moved closer to me and screamed sharply:"
-    "Suddenly she moved closer to me and screamed sharply:"
+    "Вдруг она неожиданно придвинулась ко мне и резко закричала:"
 
 # game/bar.rpy:265
 translate russian location_of_nurderer_39e4fa3e:
 
     # kira "{b}FREEZE!{/b}"
-    kira "{b}FREEZE!{/b}"
+    kira "{b}РУКИ ВВЕРХ!{/b}"
 
 # game/bar.rpy:267
 translate russian location_of_nurderer_0e66117a:
 
     # "I jumped in surprise on the chair and sharply took my hands out of my pockets."
-    "I jumped in surprise on the chair and sharply took my hands out of my pockets."
+    "От неожиданности подскочил на стуле и резко вынул руки из карманов."
 
 # game/bar.rpy:268
 translate russian location_of_nurderer_74100f0e:
 
     # "These sharp movements were enough to make a small penknife fall from the pockets of my trousers, already blunt and stained with dried blood."
-    "These sharp movements were enough to make a small penknife fall from the pockets of my trousers, already blunt and stained with dried blood."
+    "Этих резких движений было достаточно, чтобы из карманов штанов вывалился маленький перочинный ножик, уже тупой и с пятнами засохшей крови."
 
 # game/bar.rpy:270
 translate russian location_of_nurderer_8dd4cb3b:
 
     # kira "{b}Now the puzzle is done.{/b}"
-    kira "{b}Now the puzzle is done.{/b}"
+    kira "{b}Теперь паззл весь сложился.{/b}"
 
 # game/bar.rpy:276
 translate russian act_3_bar_7a094658:
 
     # "She beckoned to someone outside the window, and four policemen ran into the bar at once, surrounded, cuffed and bent to the table."
-    "She beckoned to someone outside the window, and four policemen ran into the bar at once, surrounded, cuffed and bent to the table."
+    "Она жестом поманила кого-то за окном, и в бар вбежали сразу четверо полицейских, окружили, нацепили наручники и пригнули к столу."
 
 # game/bar.rpy:278
 translate russian act_3_bar_bc0609fc:
 
     # kira "{b}Yeah, that's the criminal got caught. I immediately realized that it was you: well, the picture is obvious: the girl is on the road, with a knife.{/b}"
-    kira "{b}Yeah, that's the criminal got caught. I immediately realized that it was you: well, the picture is obvious: the girl is on the road, with a knife.{/b}"
+    kira "{b}Ага, вот и преступничек попался. Я сразу поняла, что это ты: уж больно хорошо картину преступления знаешь: девочка на путях, с ножевыми.{/b}"
 
 # game/bar.rpy:279
 translate russian act_3_bar_e52b2664:
 
     # kira "{b}Agree, I have a great talk! This is my personal reception, never with someone like you, did not give a misfire, when a person is still in prostration after a crime, it's easiest to bring it out in clean water exactly!{/b}"
-    kira "{b}Agree, I have a great talk! This is my personal reception, never with someone like you, did not give a misfire, when a person is still in prostration after a crime, it's easiest to bring it out in clean water exactly!{/b}"
+    kira "{b}Согласись, я тебя здорово уболтала! Это мой личный приём, никогда с такими, как ты, осечек не давал, когда человек еще находится в прострации после преступления, его проще всего вывести на чистую воду именно так!{/b}"
 
 # game/bar.rpy:281
 translate russian act_3_bar_70e395d8:
 
     # kira "{b}Because there were no newspapers, and there were no rumours. Here, look! A doll!{/b}"
-    kira "{b}Because there were no newspapers, and there were no rumours. Here, look! A doll!{/b}"
+    kira "{b}Ведь никаких газет не выходило, да и слухов не было. Вот, посмотри! Кукла!{/b}"
 
 # game/bar.rpy:283
 translate russian act_3_bar_f932144c:
 
     # "She launched a newspaper and showed me an internal turn. There were only absolutely clean, but wet sheets."
-    "She launched a newspaper and showed me an internal turn. There were only absolutely clean, but wet sheets."
+    "Она развернула газету и показала мне внутренний разворот. Там были только абсолютно чистые, но мокрые листы."
 
 # game/bar.rpy:285
 translate russian act_3_bar_8944c7c8:
 
     # kira "{b}The girl was found just an hour ago! Well, the picture is obvious: the girl is on the road, with knife injuries…{/b}"
-    kira "{b}The girl was found just an hour ago! Well, the picture is obvious: the girl is on the road, with knife injuries…{/b}"
+    kira "{b}Девочку-то нашли всего час назад! Ну и картина налицо: девочка на путях, с ножевыми…{/b}"
 
 # game/bar.rpy:287
 translate russian act_3_bar_71003f01:
 
     # "Kira examined me once more. Now a new, gleeful look. I do not know how to describe it, but I began to be afraid of it, really afraid."
-    "Kira examined me once more. Now a new, gleeful look. I do not know how to describe it, but I began to be afraid of it, really afraid."
+    "Кира еще раз осмотрела меня. Теперь новым, ликующим взглядом. Не знаю, как это описать, но я начал ее бояться, по-настоящему бояться."
 
 # game/bar.rpy:289
 translate russian act_3_bar_fc7300fc:
 
     # kira "{b}Hey, only you remember that I recorded everything, you see?{/b}"
-    kira "{b}Hey, only you remember that I recorded everything, you see?{/b}"
+    kira "{b}Эй, только ты учти, что я все записала, видишь?{/b}"
 
 # game/bar.rpy:291
 translate russian act_3_bar_a6b5648c:
 
     # "The girl took up her coat and turned her briefcase to me with the other side. From a small pocket, securely hidden from my eyes, protruded a portable recorder."
-    "The girl took up her coat and turned her briefcase to me with the other side. From a small pocket, securely hidden from my eyes, protruded a portable recorder."
+    "Девушка взяла в руки пальто и повернула ко мне свой портфельчик другой стороной. Из маленького кармашка, надежно спрятанного от моих глаз, торчал портативный диктофон."
 
 # game/bar.rpy:293
 translate russian act_3_bar_3be7c6b1:
 
     # kira "{b}Well, Alex, bored? How long did we chat here?{/b}"
-    kira "{b}Well, Alex, bored? How long did we chat here?{/b}"
+    kira "{b}Ну что, Алекс, заскучал? Долго мы тут болтали?{/b}"
 
 # game/bar.rpy:295
 translate russian act_3_bar_52aabfa8:
 
     # bartender "{b}Oh, nothing, nothing, I already thought that you would not break him down. I've lost the twenty, however!{/b}"
-    bartender "{b}Oh, nothing, nothing, I already thought that you would not break him down. I've lost the twenty, however!{/b}"
+    bartender "{b}Да ничего, ничего, я уже было подумал, что ты его не уломаешь. Проспорил двадцатку, однако!{/b}"
 
 # game/bar.rpy:297
 translate russian act_3_bar_34c73096:
 
     # kira "{b}Ah, yes, I completely forgot, meet this guy - it's Alex, our man. He just threw you a couple of rumours and prepared for our conversation, so to speak.{/b}"
-    kira "{b}Ah, yes, I completely forgot, meet this guy - it's Alex, our man. He just threw you a couple of rumours and prepared for our conversation, so to speak.{/b}"
+    kira "{b}Ах, да, совсем забыла, познакомься - это Алекс, свой человек. Как раз подкинул тебе пару слухов, подготовил к нашей беседе, так сказать.{/b}"
 
 # game/bar.rpy:299
 translate russian act_3_bar_c2e7f962:
 
     # "She came to the chair, on which I had sat, bent down under the bar and, a little fumbling in the dark, took out my old penknife."
-    "She came to the chair, on which I had sat, bent down under the bar and, a little fumbling in the dark, took out my old penknife."
+    "Она подошла к стулу, на котором я сидел, нагнулась под барную стойку и, немного пошарив в темноте, достала мой старый перочинный ножик."
 
 # game/bar.rpy:301
 translate russian act_3_bar_b81beaaf:
 
     # kira "{b}And here’s a knife! Look, there is blood on it!{/b}"
-    kira "{b}And here’s a knife! Look, there is blood on it!{/b}"
+    kira "{b}А вот и ножик! Смотрите, на нем кровь!{/b}"
 
 # game/bar.rpy:302
 translate russian act_3_bar_c9f9d27c:
 
     # kira "{b}Ugh, what a good thing. This Swiss knife, rusted a little, though, but it looks really good. Get him, guys.{/b}"
-    kira "{b}Ugh, what a good thing. This Swiss knife, rusted a little, though, but it looks really good. Get him, guys.{/b}"
+    kira "{b}Ууу, какой хороший образец. Настоящий швейцарский ножик, проржавел немного, правда, но выглядит действительно неплохо. Сажайте его, ребятки.{/b}"
+
 
 translate russian strings:
 
+    # bar.rpy:21
+    old "{b}. . .{/b}"
+    new "{b}. . .{/b}"
+
     # bar.rpy:25
     old "{b}Well, yea, it’s raining hard.{/b}"
-    new "{b}Well, yea, it’s raining hard.{/b}"
+    new "{b}Да так, льёт ещё.{/b}"
 
     # bar.rpy:73
     old "Kira"
-    new "Kira"
+    new "Кира"
 
     # bar.rpy:76
     old "What is your name?"
-    new "What is your name?"
+    new "Как тебя зовут?"
 
     # bar.rpy:91
     old "{b}Fine.{/b}"
-    new "{b}Fine.{/b}"
+    new "{b}Норм.{/b}"
 
     # bar.rpy:91
     old "{b}Well, I’m not bad, just trying to live here.{/b}"
-    new "{b}Well, I’m not bad, just trying to live here.{/b}"
+    new "{b}Да ничего, перебиваюсь потихоньку.{/b}"
 
     # bar.rpy:91
     old "{b}It can’t be worse.{/b}"
-    new "{b}It can’t be worse.{/b}"
+    new "{b}Все плохо.{/b}"
 
     # bar.rpy:224
     old "{b}On the river coast.{/b}"
-    new "{b}On the river coast.{/b}"
+    new "{b}На берегу реки.{/b}"
 
     # bar.rpy:224
     old "{b}In the forest.{/b}"
-    new "{b}In the forest.{/b}"
+    new "{b}В лесу.{/b}"
 
     # bar.rpy:224
     old "{b}In the abandoned warehouse.{/b}"
-    new "{b}In the abandoned warehouse.{/b}"
+    new "{b}На заброшенном складе.{/b}"
 
     # bar.rpy:224
     old "{b}At the railway station.{/b}"
-    new "{b}At the railway station.{/b}"
+    new "{b}На железнодорожных путях.{/b}"
 
     # bar.rpy:224
     old "{b}Somewhere in the doorway.{/b}"
-    new "{b}Somewhere in the doorway.{/b}"
-
+    new "{b}Где-то в подворотне.{/b}"
