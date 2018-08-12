@@ -1,5 +1,16 @@
 ﻿# The script of the game goes in this file.
 
+label language_chooser:
+    scene black
+
+    menu:
+        "{font=fonts/english_font.otf}English{/font}":
+                $ persistent.lang="english"
+        "{font=fonts/russian_font.otf}Русский{/font}":
+                $ persistent.lang="russian"
+
+    $ renpy.utter_restart()
+
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
@@ -19,7 +30,8 @@ image kira_superangry = 'sprites/sprite-superangry.png'
 image kira_thinking = 'sprites/sprite-thinking.png'
 
 image bg_bar = 'background/bar.jpg'
-# image bg_street = None
+image bg_street_rainy = 'background/street_rainy.jpg'
+image bg_street = 'background/street.jpg'  
 
 # $ centre-lower = Position(xanchor=0.5,xpos=0.5, yanchor=0.8, ypos=1.0)
 

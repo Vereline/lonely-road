@@ -155,6 +155,25 @@ define config.window_icon = "gui/window_icon.png"
 ## Build configuration #########################################################
 ##
 ## This section controls how Ren'Py turns your project into distribution files.
+init -3 python:
+    if persistent.lang is None:
+        persistent.lang = "english"
+
+
+    lang = persistent.lang
+
+init python:
+    config.main_menu.insert(3, (u'Language', "language_chooser", "True"))
+
+
+init python:
+
+    if (lang == "russian") or (_preferences.language == "russian"):
+        style.default.font = "fonts/russian_font.otf" #your font here
+
+    elif (lang == "english") or (_preferences.language == "english"):
+        style.default.font = "fonts/english_font.otf" #your font here
+        
 
 init python:
 

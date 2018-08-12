@@ -4,5 +4,5 @@ translate russian strings:
 
     # options.rpy:15
     old "Lonely Road"
-    new ""
+    new "Пустынная дорога"
 

@@ -1,4 +1,8 @@
 label act_0_street:
+
+    scene bg_street_rainy:
+        zoom 0.68
+
     "It’s raining hard."
     "Big raindrops crash asphalt and nail dust, which was flying in the air, to the ground."
     "Low two-storey houses, colored in some sort of grey color, are standing around me."
@@ -14,6 +18,9 @@ label act_0_street:
 
 label act_4_street:
     
+    scene bg_street:
+        zoom 0.68
+
     "It's still raining outside, though not as strong as before."
     "Directly at the entrance to the bar there are two police cars, they put me in one of them. "
     "Slamming the car door, the police quickly began to assemble and get into the car."

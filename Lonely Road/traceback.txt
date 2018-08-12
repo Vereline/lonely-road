@@ -1,24 +1,40 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 22, in script
-    image bg_bar_scaled = ('background/bar.jpg', config.screen_width, config.screen_width)
-Exception: Not a displayable: (u'background/bar.jpg', 1280, 720)
+  File "renpy/common/00start.rpy", line 203, in script call
+    call _load_reload_game from _call__load_reload_game_1
+  File "renpy/common/00keymap.rpy", line 446, in script
+    python hide:
+  File "renpy/common/00keymap.rpy", line 446, in <module>
+    python hide:
+  File "renpy/common/00keymap.rpy", line 456, in _execute_python_hide
+    renpy.load("_reload-2")
+Exception: Couldn't find a place to stop rolling back. Perhaps the script changed in an incompatible way?
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 22, in script
-    image bg_bar_scaled = ('background/bar.jpg', config.screen_width, config.screen_width)
-  File "D:\Programs\RenPy\renpy-6.99.14-sdk\renpy\ast.py", line 965, in execute
-    renpy.exports.image(self.imgname, img)
-  File "D:\Programs\RenPy\renpy-6.99.14-sdk\renpy\exports.py", line 362, in image
-    d = renpy.easy.displayable(d)
-  File "D:\Programs\RenPy\renpy-6.99.14-sdk\renpy\easy.py", line 136, in displayable
-    raise Exception("Not a displayable: %r" % (d,))
-Exception: Not a displayable: (u'background/bar.jpg', 1280, 720)
+  File "renpy/common/00start.rpy", line 203, in script call
+    call _load_reload_game from _call__load_reload_game_1
+  File "renpy/common/00keymap.rpy", line 446, in script
+    python hide:
+  File "D:\Programs\RenPy\renpy-6.99.14-sdk\renpy\ast.py", line 862, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "D:\Programs\RenPy\renpy-6.99.14-sdk\renpy\python.py", line 1912, in py_exec_bytecode
+    exec bytecode in globals, locals
+  File "renpy/common/00keymap.rpy", line 446, in <module>
+    python hide:
+  File "renpy/common/00keymap.rpy", line 456, in _execute_python_hide
+    renpy.load("_reload-2")
+  File "D:\Programs\RenPy\renpy-6.99.14-sdk\renpy\loadsave.py", line 728, in load
+    log.unfreeze(roots, label="_after_load")
+  File "D:\Programs\RenPy\renpy-6.99.14-sdk\renpy\python.py", line 1867, in unfreeze
+    self.rollback(0, force=True, label=label, greedy=greedy, on_load=True)
+  File "D:\Programs\RenPy\renpy-6.99.14-sdk\renpy\python.py", line 1696, in rollback
+    raise Exception("Couldn't find a place to stop rolling back. Perhaps the script changed in an incompatible way?")
+Exception: Couldn't find a place to stop rolling back. Perhaps the script changed in an incompatible way?
 
 Windows-8-6.2.9200
 Ren'Py 7.0.0.196
 Lonely Road 1.0
-Mon Jul 30 21:02:07 2018
+Sun Aug 12 20:54:25 2018

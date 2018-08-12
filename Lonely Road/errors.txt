@@ -2,9 +2,10 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 27: style property pass is not known.
-    pass
-        ^
+File "game/options.rpy", line 174: invalid syntax
+    elif (lang == "english") or (_preferences.language == "english")):
+                                                                     ^
+    
 
 Ren'Py Version: Ren'Py 7.0.0.196
-Mon Jul 30 21:25:39 2018
+Sun Aug 12 21:18:50 2018
