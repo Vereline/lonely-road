@@ -2,10 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/options.rpy", line 174: invalid syntax
-    elif (lang == "english") or (_preferences.language == "english")):
-                                                                     ^
-    
+File "game/script.rpy", line 50: u'background' is not a keyword argument or valid child for the hbox statement.
+    background "#000"
+              ^
 
 Ren'Py Version: Ren'Py 7.0.0.196
-Sun Aug 12 21:18:50 2018
+Mon Aug 13 22:48:01 2018

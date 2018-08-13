@@ -62,7 +62,7 @@ define gui.text_font = "fonts/english_font.otf"
 #     define gui.text_font = "fonts/english_font.otf"
 
 ## The font used for character names.
-define gui.name_text_font = "fonts/english_font.otf"
+define gui.name_text_font = "fonts/russian_font.otf"
 # if _preferences.language == u"russian":
 #     define gui.name_text_font = "fonts/russian_font.otf"
 # else:
@@ -76,7 +76,7 @@ define gui.interface_text_font = "fonts/english_font.otf"
 #     define gui.interface_text_font = "fonts/english_font.otf"
 
 ## The size of normal dialogue text.
-define gui.text_size = 22
+define gui.text_size = 24
 
 ## The size of character names.
 define gui.name_text_size = 30
@@ -116,7 +116,7 @@ define gui.textbox_yalign = 1.0
 
 ## The placement of the speaking character's name, relative to the textbox.
 ## These can be a whole number of pixels from the left or top, or 0.5 to center.
-define gui.name_xpos = 240
+define gui.name_xpos = 220
 define gui.name_ypos = 0
 
 ## The horizontal alignment of the character's name. This can be 0.0 for left-
@@ -140,11 +140,11 @@ define gui.namebox_tile = False
 ## The placement of dialogue relative to the textbox. These can be a whole
 ## number of pixels relative to the left or top side of the textbox, or 0.5 to
 ## center.
-define gui.dialogue_xpos = 268
+define gui.dialogue_xpos = 210
 define gui.dialogue_ypos = 50
 
 ## The maximum width of dialogue text, in pixels.
-define gui.dialogue_width = 744
+define gui.dialogue_width = 900
 
 ## The horizontal alignment of the dialogue text. This can be 0.0 for left-
 ## aligned, 0.5 for centered, and 1.0 for right-aligned.

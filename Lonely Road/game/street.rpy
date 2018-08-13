@@ -14,6 +14,7 @@ label act_0_street:
     "Hmpf… it’s worth to visit this place. Anyway, I’ve got no umbrella and I don’t want to soak and catch cold after the rain."  
     " . . ."
     
+    hide screen bg_street_rainy
     jump act_1
 
 label act_4_street:
@@ -38,5 +39,6 @@ label act_4_street:
     kira "{b}Yeah, that’s him...{/b}"
 
     "The police car started off and took me to the darkness…"
-
+    
+    hide screen bg_street
     jump end_game

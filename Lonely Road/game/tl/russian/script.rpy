@@ -57,3 +57,19 @@ translate russian strings:
     new "Девушка"
 
 
+# TODO: Translation updated at 2018-08-13 22:34
+
+translate russian strings:
+
+    # script.rpy:6
+    old "{font=fonts/english_font.otf}English{/font}"
+    new "{font=fonts/english_font.otf}English{/font}"
+
+    # script.rpy:6
+    old "{font=fonts/russian_font.otf}Русский{/font}"
+    new "{font=fonts/russian_font.otf}Русский{/font}"
+
+    # script.rpy:50
+    old "Act "
+    new "Акт "
+

@@ -36,9 +36,14 @@ label act_1_bar:
     bartender "{b}As far as I know, they look for the murderer, but they can’t find him. Well, we live in a small town, where everyone knows each other in person. That means this murderer is one of us?{/b}"
     me "{b}That’s the point.{/b}" 
 
+    hide screen bg_bar
     jump act_2
 
 label act_2_bar:
+
+    scene bg_bar:
+        zoom 0.68
+
     "So, I was sitting and thinking for a long time, as suddenly I was abruptly woke up by a knock on the door."
     "The girl entered the bar, she was completely wet, out of breath and terribly dissatisfied with something."
     "She quickly ran to the rack, climbed on a high chair and flopped on it, sighing with relief."
@@ -178,10 +183,16 @@ label act_2_bar:
 
     "Kira defiantly turned away, puffed out her cheeks like a hamster, and began to look at the ceiling with displeasure."
 
+    show kira_idontcare:
+        xalign 0.5 yalign 1 xzoom 0.3 yzoom 0.3 ypos 0.2
+
     "{i}. . .{/i}"
     "{i}...The girl ran to the fountain and lowered tempo. Then she simply walked, restoring breathing.{/i}"
     "{i}Tears are flowing down her cheeks, her brows have frowned, his lips are compressed, her cheeks are inflated and her hands are clenched into fists, and behind her back is a new red rucksack, for some reason diligently piled in the mud.{/i}"
     "{i}Now I see, why she was disappointed…{/i}"
+
+    show kira_dafault:
+        xalign 0.5 yalign 1 xzoom 0.3 yzoom 0.3 ypos 0.2
 
     kira "{b}Can you imagine, whom did I meet today? Your mayor! As I know, he is a hidden person, he does not get out almost from home.  And today he took it and went out. He gave a lot of interviews, talked with the people ...{/b}"
     kira "{b}...{/b}"
@@ -269,9 +280,16 @@ label act_2_bar:
 
     kira "{b}Now the puzzle is done.{/b}"
 
+    hide screen bg_bar
     jump act_3
 
 label act_3_bar:
+
+    scene bg_bar:
+        zoom 0.68
+    
+    show kira_dafault:
+        xalign 0.5 yalign 1 xzoom 0.3 yzoom 0.3 ypos 0.2
     
     "She beckoned to someone outside the window, and four policemen ran into the bar at once, surrounded, cuffed and bent to the table."
 
@@ -301,4 +319,5 @@ label act_3_bar:
     kira "{b}And here’s a knife! Look, there is blood on it!{/b}"
     kira "{b}Ugh, what a good thing. This Swiss knife, rusted a little, though, but it looks really good. Get him, guys.{/b}"  
 
+    hide screen bg_bar
     jump act_4

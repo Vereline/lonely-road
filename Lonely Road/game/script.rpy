@@ -47,9 +47,10 @@ screen act_button(number=0, text_size=40):
     hbox:
         style "centered_style"
         xmaximum 300
-        $ text_input = "Акт " + str(number) 
+        $ text_input = _("Act ") + str(number) 
         textbutton text_input:
             action None
+            background "#000"
             text_size text_size
 # The game starts here.
 
@@ -68,22 +69,32 @@ label start:
     $ Me_name = _('Me')
     $ Kira_name = _('Girl')
 
-    show screen act_button(1)
+    
 
 label act_0:
+    show screen act_button(1)
     "Act 1"
+    hide screen act_button
     jump act_0_street
 label act_1:
+    show screen act_button(2)
     "Act 2"
+    hide screen act_button
     jump act_1_bar
 label act_2:
+    show screen act_button(3)
     "Act 3"
+    hide screen act_button
     jump act_2_bar
 label act_3:
+    show screen act_button(4)
     "Act 4"
+    hide screen act_button
     jump act_3_bar
 label act_4:
+    show screen act_button(5)
     "Act 5"
+    hide screen act_button
     jump act_4_street
 
     # These display lines of dialogue.
