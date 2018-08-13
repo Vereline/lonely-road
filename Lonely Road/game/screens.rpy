@@ -751,8 +751,8 @@ screen preferences():
                     has vbox
 
                     label _("Language")
-                    textbutton "English" action [Language(None), gui.SetPreference("text_font", "fonts/english_font.otf")]
-                    textbutton "Russian" action [Language("russian"), gui.SetPreference("text_font", "fonts/russian_font.otf")]
+                    textbutton "English" action [Language(None)]  # , gui.SetPreference("text_font", "fonts/english_font.otf")]
+                    textbutton "Russian" action [Language("russian")]  # , gui.SetPreference("text_font", "fonts/russian_font.otf")]
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
 
