@@ -55,22 +55,25 @@ define gui.interface_text_color = '#ffffff'
 ## Fonts and Font Sizes ########################################################
 
 ## The font used for in-game text.
-if _preferences.language == u"russian":
-    define gui.text_font = "fonts/russian_font.otf"
-else:
-    define gui.text_font = "fonts/english_font.otf"
+define gui.text_font = "fonts/english_font.otf"
+# if _preferences.language == u"russian":
+#     define gui.text_font = "fonts/russian_font.otf"
+# else:
+#     define gui.text_font = "fonts/english_font.otf"
 
 ## The font used for character names.
-if _preferences.language == u"russian":
-    define gui.name_text_font = "fonts/russian_font.otf"
-else:
-    define gui.name_text_font = "fonts/english_font.otf"
+define gui.name_text_font = "fonts/english_font.otf"
+# if _preferences.language == u"russian":
+#     define gui.name_text_font = "fonts/russian_font.otf"
+# else:
+#     define gui.name_text_font = "fonts/english_font.otf"
 
 ## The font used for out-of-game text.
-if _preferences.language == u"russian":
-    define gui.interface_text_font = "fonts/russian_font.otf"  
-else:
-    define gui.interface_text_font = "fonts/english_font.otf"
+define gui.interface_text_font = "fonts/english_font.otf"
+# if _preferences.language == u"russian":
+#     define gui.interface_text_font = "fonts/russian_font.otf"  
+# else:
+#     define gui.interface_text_font = "fonts/english_font.otf"
 
 ## The size of normal dialogue text.
 define gui.text_size = 22
